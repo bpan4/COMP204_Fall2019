@@ -13,13 +13,12 @@ Course content: The course aims to introduce students to computer programming. I
 Learning how to program is not easy; it is not a set of facts that one can simply memorize. In principle, a computer program is simply a set of instructions that tells a computer to perform a task. However, finding the right set of instructions can be quite challenging. For that, one has to learn how to structure a larger problem into small subsets, and then find the solution to each particular subset. This course aims to teach students a way of thinking that will enable them to build non-trivial programs.
 
 Objectives: By the end of this course, students will be able to:
-
-    Design and describe precise, unambiguous instructions that can be used [by a computer] to solve a problem or perform a task;
+				Design and describe precise, unambiguous instructions that can be used [by a computer] to solve a problem or perform a task;
     Translate these instructions into a language that a computer can understand (Python);
     Write programs that solve complex problems (especially those arising in Life Sciences) by decomposing them into simpler subproblems;
     Apply programming-style and structure conventions to make your programs easy to understand, debug and modify;
     Learn independently about new programming-language features and libraries by reading documentation and by experimenting.
 
-Programming language: Python 3.8 (see below for installation procedure)
+Programming language: Python 3.8 
 
 List of life science topics used as examples: Central dogma of molecular biology, RNA and/or protein structure prediction, Genome sequencing and analysis, Biological networks, Evolution, Epigenetics, Biomarker discovery, Biosystems dynamics, Cell and biomedical imaging, Modeling. 
