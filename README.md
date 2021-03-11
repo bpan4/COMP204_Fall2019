@@ -43,8 +43,10 @@ Python 3.8
  - Quizzes: 5% (top 25 of 35 quizzes)
  - Midterm exam: 20%, held online on October 21. You will have 4 hours to complete the exam (but the exam will be designed to be feasible in 2 hours), in a period of your choice starting at 9:30am on October 21 and ending at 9:29am on October 22. Please let me know by Sept. 15 if you need special special arrangements.
  - Final exam: 35%. You will have 6 hours to complete the exam (but the exam will be designed to be feasible in 3 hours), BONUS: Up to 5% bonus for the student who will have been most helpful answering other students' questions on Piazza.
+
 **OR**
- - Assignments: 40% (5 assignments worth 8% each)
+
+- Assignments: 40% (5 assignments worth 8% each)
  - Quizzes: 5% (top 25 of 35 quizzes)
  - Final exam: 55%. You will have 6 hours to complete the exam (but the exam will be designed to be feasible in 3 hours). BONUS: Up to 5% bonus for the student who will have been most helpful answering other students' questions on Piazza.
 
