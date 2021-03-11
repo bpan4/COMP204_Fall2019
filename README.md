@@ -86,20 +86,18 @@ The instructors reserve the right to modify the lateness policy for a particular
 ## Textbooks and software
 There is no textbook that is mandatory for the course. However, students may find the following free resources useful:
 
-    Think Python 2nd ed. by Allen B. Downey.
-    Available at no cost under the terms of the Creative Commons Attribution-NonCommercial 3.0 Unported License.
-    How to Think Like a Computer Scientist: Interactive Edition (Python) .
-    This is a free, online, interactive textbook by Brad Miller and David Ranum. This is an interactive textbook based on the work by Jerey Elkner, Allen B. Downey, and Chris Meyers.
-    The Python Tutorial. You can browse or download this from Python Software Foundation's Web site.
-    The Python 3 Documentation. You can also browse or download this from Python Software Foundation's Web site.
+ - Think Python 2nd ed. by Allen B. Downey (https://greenteapress.com/wp/think-python-2e/). Available at no cost under the terms of the Creative Commons Attribution-NonCommercial 3.0 Unported License.
+ - How to Think Like a Computer Scientist: Interactive Edition (Python) (https://runestone.academy/runestone/books/published/thinkcspy/index.html). This is a free, online, interactive textbook by Brad Miller and David Ranum. This is an interactive textbook based on the work by Jerey Elkner, Allen B. Downey, and Chris Meyers.
+ - The Python Tutorial (https://docs.python.org/3/tutorial/). You can browse or download this from Python Software Foundation's Web site.
+ - The Python 3 Documentation (https://docs.python.org/3/). You can also browse or download this from Python Software Foundation's Web site.
 
-Recommended Software: All programming will be done in Python 3.8. You need to install Python 3.8 using Anaconda, which is free and works on all operating systems (Windows, Mac OS X, Linux).
+## Recommended Software
+All programming will be done in Python 3.8. You need to install Python 3.8 using Anaconda, which is free and works on all operating systems (Windows, Mac OS X, Linux).
 
-Useful Links:
-
-    Anaconda
-    Python Docs
-    Python Exercises
+## Useful Links
+ - Anaconda (https://www.anaconda.com/)
+ - Python Docs (https://docs.python.org/3/)
+ - Python Exercises (https://exercism.io/tracks/python/exercises)
     
 ## Official language policy for graded work
 In accordance with McGill University's Charter of Students' Rights, students in this course have the right to submit in English or in French any written work that is to be graded.
