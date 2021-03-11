@@ -1,0 +1,4000 @@
+5628636
+coughing stomach_pain
+headache runny_nose sore_throat vomiting stiff_neck
+pneumonia
+1249658
+coughing sore_throat
+headache fever runny_nose vomiting muscle_pain
+pharyngitis
+1770756
+runny_nose
+vomiting stiff_neck
+allergies
+2315274
+runny_nose sneezing muscle_pain
+stiff_neck
+flu
+2276739
+sneezing muscle_pain
+headache stomach_pain stiff_neck
+cold
+5620912
+
+muscle_pain stiff_neck
+cold
+6679255
+runny_nose stomach_pain
+sneezing muscle_pain
+cold
+2573000
+coughing runny_nose sore_throat
+fever vomiting stomach_pain stiff_neck
+cold
+2222059
+headache fever
+muscle_pain
+pneumonia
+372414
+coughing sneezing
+headache
+flu
+8915996
+stomach_pain
+headache coughing sore_throat stiff_neck
+food_poisoning
+910618
+headache sneezing muscle_pain
+vomiting
+allergies
+4563515
+fever sneezing
+vomiting stomach_pain muscle_pain
+allergies
+8812106
+runny_nose
+coughing sore_throat stomach_pain muscle_pain
+allergies
+9057460
+fever stiff_neck
+coughing vomiting
+meningitis
+3143736
+runny_nose
+fever sneezing sore_throat vomiting stomach_pain
+allergies
+1327486
+headache vomiting
+runny_nose sneezing stomach_pain
+food_poisoning
+7404800
+vomiting
+coughing runny_nose
+food_poisoning
+4656719
+headache stomach_pain
+fever coughing runny_nose sneezing
+food_poisoning
+666496
+headache coughing vomiting
+sneezing
+meningitis
+1541803
+runny_nose sneezing
+stomach_pain
+flu
+5686777
+headache
+sore_throat muscle_pain
+flu
+589795
+
+headache fever sneezing vomiting stomach_pain muscle_pain
+pharyngitis
+7508020
+headache fever stiff_neck
+coughing runny_nose muscle_pain
+meningitis
+9107552
+
+runny_nose sneezing sore_throat stomach_pain
+meningitis
+3283144
+muscle_pain
+coughing sneezing vomiting
+meningitis
+5776788
+stomach_pain muscle_pain
+coughing sore_throat
+food_poisoning
+2800816
+fever sneezing
+coughing vomiting stomach_pain stiff_neck
+allergies
+2823732
+headache runny_nose stiff_neck
+
+flu
+5358828
+fever sore_throat vomiting stiff_neck
+coughing runny_nose muscle_pain
+food_poisoning
+9470774
+headache sneezing sore_throat
+fever vomiting muscle_pain stiff_neck
+flu
+3767486
+fever runny_nose sore_throat muscle_pain
+coughing
+flu
+4844952
+stiff_neck
+headache fever coughing sore_throat vomiting stomach_pain
+meningitis
+3307917
+headache muscle_pain
+stomach_pain
+flu
+6193522
+headache vomiting stiff_neck
+coughing runny_nose sneezing sore_throat stomach_pain
+meningitis
+3953475
+runny_nose sneezing
+fever sore_throat
+allergies
+7220820
+fever muscle_pain
+runny_nose sneezing sore_throat vomiting stomach_pain
+pneumonia
+8287881
+runny_nose sore_throat
+muscle_pain
+pharyngitis
+4754282
+runny_nose sneezing muscle_pain
+fever coughing sore_throat vomiting
+flu
+8579570
+vomiting stomach_pain
+headache coughing runny_nose stiff_neck
+food_poisoning
+3340888
+headache
+runny_nose stomach_pain
+food_poisoning
+6473563
+fever stiff_neck
+coughing runny_nose sore_throat
+allergies
+3952448
+vomiting stiff_neck
+fever runny_nose sore_throat muscle_pain
+food_poisoning
+768004
+fever coughing runny_nose
+vomiting muscle_pain
+pharyngitis
+1030859
+
+sneezing vomiting muscle_pain stiff_neck
+pharyngitis
+7937028
+fever
+headache sneezing sore_throat vomiting stomach_pain muscle_pain stiff_neck
+pneumonia
+1158025
+fever coughing
+sore_throat
+flu
+6361035
+sneezing vomiting
+headache fever stomach_pain muscle_pain
+pharyngitis
+147681
+headache fever sneezing
+sore_throat vomiting
+flu
+7237567
+coughing muscle_pain stiff_neck
+fever runny_nose
+pharyngitis
+4083151
+coughing runny_nose
+headache fever sore_throat stiff_neck
+cold
+3229312
+coughing
+fever sneezing vomiting stomach_pain stiff_neck
+pneumonia
+7930048
+headache
+vomiting
+meningitis
+9205976
+fever coughing runny_nose
+headache muscle_pain stiff_neck
+allergies
+2137050
+vomiting stomach_pain stiff_neck
+headache muscle_pain
+food_poisoning
+9058629
+fever stiff_neck
+coughing runny_nose sneezing sore_throat vomiting stomach_pain
+meningitis
+3072065
+coughing
+vomiting stomach_pain stiff_neck
+cold
+7389135
+vomiting
+coughing
+food_poisoning
+6138722
+coughing runny_nose sore_throat
+fever sneezing vomiting stomach_pain muscle_pain
+pharyngitis
+4978464
+headache fever coughing runny_nose vomiting
+stomach_pain muscle_pain
+pneumonia
+7732571
+coughing sneezing muscle_pain
+headache fever vomiting stomach_pain
+flu
+4676539
+
+vomiting stomach_pain
+cold
+4422936
+fever muscle_pain
+coughing stomach_pain stiff_neck
+pneumonia
+5320878
+fever sneezing
+vomiting stiff_neck
+allergies
+8947304
+fever runny_nose sore_throat
+vomiting stomach_pain
+flu
+1560983
+headache fever
+coughing runny_nose sneezing stomach_pain
+meningitis
+6975681
+
+coughing sore_throat stomach_pain
+flu
+9545391
+headache coughing runny_nose muscle_pain
+
+flu
+6880074
+coughing sneezing muscle_pain stiff_neck
+headache sore_throat stomach_pain
+flu
+88586
+
+runny_nose vomiting stomach_pain muscle_pain
+cold
+4659008
+coughing muscle_pain stiff_neck
+runny_nose
+pneumonia
+286109
+stomach_pain
+headache fever coughing sneezing muscle_pain
+food_poisoning
+9031826
+runny_nose
+headache vomiting stomach_pain stiff_neck
+allergies
+9769382
+fever coughing sneezing
+vomiting stomach_pain muscle_pain stiff_neck
+pneumonia
+7521066
+vomiting stomach_pain muscle_pain
+fever coughing runny_nose
+food_poisoning
+484068
+coughing runny_nose sore_throat
+headache stiff_neck
+cold
+1974926
+headache runny_nose
+fever sneezing stiff_neck
+pharyngitis
+1955823
+runny_nose sore_throat
+fever coughing sneezing stomach_pain stiff_neck
+cold
+8575623
+runny_nose muscle_pain
+fever stomach_pain
+pneumonia
+2988480
+fever vomiting stiff_neck
+
+pneumonia
+3800015
+vomiting stomach_pain
+headache coughing stiff_neck
+food_poisoning
+3932030
+vomiting
+fever coughing sneezing sore_throat stiff_neck
+food_poisoning
+6056196
+headache fever coughing sore_throat
+sneezing vomiting muscle_pain
+pneumonia
+1191191
+fever sore_throat
+coughing runny_nose stomach_pain muscle_pain
+meningitis
+4672033
+fever coughing stiff_neck
+runny_nose sore_throat
+meningitis
+2880279
+sneezing
+runny_nose
+flu
+4099271
+coughing
+fever sore_throat vomiting
+flu
+3986646
+runny_nose
+fever coughing sore_throat vomiting stomach_pain stiff_neck
+allergies
+1124182
+runny_nose sneezing
+headache stomach_pain
+allergies
+3063011
+fever
+coughing runny_nose stomach_pain
+meningitis
+8117378
+headache fever coughing muscle_pain
+sneezing stomach_pain stiff_neck
+flu
+9088792
+sneezing
+stomach_pain
+allergies
+2989519
+sore_throat
+fever coughing stiff_neck
+allergies
+5285119
+headache vomiting
+sore_throat stomach_pain
+meningitis
+8850730
+headache fever stiff_neck
+sore_throat muscle_pain
+meningitis
+4236386
+vomiting stomach_pain
+headache sore_throat muscle_pain
+food_poisoning
+2632478
+headache vomiting
+fever coughing sneezing sore_throat
+food_poisoning
+1828951
+stomach_pain muscle_pain
+headache runny_nose sneezing sore_throat stiff_neck
+food_poisoning
+9648298
+sneezing sore_throat
+headache stomach_pain
+flu
+4214235
+vomiting stomach_pain stiff_neck
+fever runny_nose
+food_poisoning
+2195824
+
+sneezing
+flu
+2617219
+headache fever
+runny_nose sore_throat vomiting muscle_pain stiff_neck
+pneumonia
+6683773
+coughing sore_throat muscle_pain
+fever sneezing vomiting stiff_neck
+cold
+9914590
+runny_nose sneezing vomiting muscle_pain
+coughing stomach_pain
+flu
+5112860
+fever sneezing sore_throat muscle_pain
+stomach_pain
+allergies
+3101617
+headache fever stiff_neck
+sneezing sore_throat
+pneumonia
+4868763
+
+headache fever runny_nose vomiting muscle_pain
+cold
+2497513
+stomach_pain
+coughing sneezing
+food_poisoning
+1250821
+coughing runny_nose sore_throat stomach_pain
+fever muscle_pain stiff_neck
+cold
+4942599
+fever sneezing sore_throat
+muscle_pain stiff_neck
+cold
+4032172
+
+coughing runny_nose stomach_pain stiff_neck
+pharyngitis
+2587887
+runny_nose stomach_pain
+fever coughing sore_throat muscle_pain
+allergies
+4128770
+
+headache stomach_pain stiff_neck
+flu
+9582247
+coughing runny_nose sore_throat muscle_pain
+headache sneezing
+pneumonia
+6078518
+headache fever runny_nose sore_throat
+sneezing muscle_pain stiff_neck
+pharyngitis
+1732935
+fever coughing
+headache runny_nose sore_throat muscle_pain
+pneumonia
+5578057
+coughing
+fever sore_throat muscle_pain stiff_neck
+cold
+236177
+fever coughing runny_nose vomiting
+sneezing
+pneumonia
+2391837
+
+runny_nose sneezing sore_throat vomiting
+meningitis
+1429343
+vomiting stomach_pain
+fever runny_nose sore_throat
+food_poisoning
+9758754
+
+headache sore_throat
+pneumonia
+6700551
+headache coughing runny_nose
+stomach_pain muscle_pain
+pneumonia
+2285955
+vomiting
+headache fever coughing sore_throat
+food_poisoning
+7782004
+headache runny_nose
+sore_throat stomach_pain
+pharyngitis
+1969588
+coughing muscle_pain stiff_neck
+headache
+pneumonia
+4688406
+
+fever sneezing stomach_pain stiff_neck
+pharyngitis
+711799
+stiff_neck
+coughing runny_nose sneezing sore_throat
+food_poisoning
+1428495
+
+headache stiff_neck
+food_poisoning
+7787768
+runny_nose sneezing
+headache coughing vomiting muscle_pain
+cold
+8756296
+coughing
+sneezing
+pharyngitis
+10418
+sneezing muscle_pain
+coughing sore_throat vomiting stiff_neck
+flu
+690482
+headache stiff_neck
+vomiting
+flu
+4669398
+runny_nose
+stiff_neck
+pharyngitis
+248221
+
+headache fever coughing runny_nose sneezing sore_throat vomiting stiff_neck
+food_poisoning
+2083356
+sore_throat stiff_neck
+runny_nose vomiting stomach_pain
+pharyngitis
+1080916
+muscle_pain stiff_neck
+stomach_pain
+meningitis
+8356864
+fever runny_nose vomiting muscle_pain stiff_neck
+headache sneezing sore_throat
+meningitis
+4706657
+headache fever stomach_pain
+vomiting
+meningitis
+7588628
+muscle_pain
+fever sneezing sore_throat vomiting
+pharyngitis
+559547
+fever runny_nose muscle_pain
+coughing sore_throat vomiting stiff_neck
+pneumonia
+4708764
+fever
+stomach_pain muscle_pain stiff_neck
+pneumonia
+9572289
+headache
+coughing runny_nose sneezing
+meningitis
+2986532
+headache fever vomiting stomach_pain
+coughing runny_nose sore_throat stiff_neck
+food_poisoning
+2973837
+fever stiff_neck
+runny_nose sore_throat vomiting stomach_pain muscle_pain
+pneumonia
+1093136
+fever vomiting
+headache coughing runny_nose muscle_pain stiff_neck
+food_poisoning
+4706786
+coughing
+stiff_neck
+flu
+2279733
+coughing sneezing sore_throat vomiting stiff_neck
+headache fever muscle_pain
+cold
+4998061
+headache runny_nose
+sore_throat stiff_neck
+flu
+3229750
+fever sore_throat
+headache runny_nose stomach_pain muscle_pain stiff_neck
+allergies
+5627866
+runny_nose
+headache fever stomach_pain stiff_neck
+cold
+2660744
+coughing sneezing stiff_neck
+fever sore_throat stomach_pain
+cold
+3341859
+fever stiff_neck
+headache sore_throat
+pharyngitis
+9475231
+coughing sneezing
+headache sore_throat stomach_pain muscle_pain
+pharyngitis
+5009862
+
+fever runny_nose
+food_poisoning
+7792905
+coughing sore_throat
+headache runny_nose vomiting stomach_pain stiff_neck
+pharyngitis
+8042657
+headache muscle_pain
+fever coughing sneezing stomach_pain
+meningitis
+5510916
+sneezing
+fever vomiting stomach_pain
+cold
+168499
+sneezing
+headache coughing sore_throat vomiting stomach_pain stiff_neck
+pneumonia
+8393025
+
+headache coughing sore_throat vomiting stomach_pain muscle_pain
+allergies
+1470966
+
+coughing stiff_neck
+food_poisoning
+6468440
+headache fever muscle_pain stiff_neck
+sneezing stomach_pain
+meningitis
+3357628
+fever vomiting
+runny_nose stiff_neck
+food_poisoning
+3397253
+fever runny_nose sneezing vomiting
+headache sore_throat stiff_neck
+pneumonia
+5815676
+runny_nose sneezing
+headache sore_throat vomiting stomach_pain
+allergies
+9874841
+fever
+runny_nose sneezing stomach_pain
+pneumonia
+7069428
+fever runny_nose muscle_pain
+headache coughing sneezing vomiting stomach_pain stiff_neck
+flu
+4360980
+fever coughing
+runny_nose sore_throat
+meningitis
+747373
+fever sore_throat
+headache runny_nose sneezing
+pneumonia
+6448515
+sneezing
+muscle_pain
+allergies
+6464424
+runny_nose sore_throat stiff_neck
+fever stomach_pain
+pharyngitis
+1627158
+fever runny_nose sneezing
+vomiting
+flu
+9991332
+vomiting stiff_neck
+fever runny_nose muscle_pain
+food_poisoning
+9013760
+headache coughing
+fever muscle_pain stiff_neck
+pharyngitis
+7557054
+sore_throat vomiting muscle_pain stiff_neck
+coughing sneezing stomach_pain
+meningitis
+8373158
+sore_throat
+headache fever vomiting muscle_pain stiff_neck
+pharyngitis
+530238
+runny_nose sore_throat
+vomiting stiff_neck
+cold
+3975275
+headache fever stiff_neck
+runny_nose sneezing sore_throat vomiting muscle_pain
+meningitis
+5988378
+vomiting muscle_pain
+sore_throat stiff_neck
+food_poisoning
+6633428
+coughing runny_nose muscle_pain
+fever
+cold
+3978119
+headache
+coughing runny_nose sneezing sore_throat vomiting stomach_pain
+meningitis
+3323112
+sneezing sore_throat
+headache fever stomach_pain muscle_pain
+allergies
+6923541
+headache runny_nose muscle_pain
+fever coughing sneezing vomiting
+flu
+2840195
+headache fever
+coughing runny_nose muscle_pain
+food_poisoning
+901936
+
+fever stomach_pain
+cold
+5562650
+headache fever stomach_pain
+sneezing vomiting stiff_neck
+meningitis
+5537227
+sneezing sore_throat stiff_neck
+fever runny_nose vomiting muscle_pain
+pharyngitis
+6617403
+
+sneezing stomach_pain
+pharyngitis
+7718272
+runny_nose sneezing vomiting
+fever sore_throat muscle_pain stiff_neck
+cold
+8204349
+sneezing
+runny_nose sore_throat vomiting muscle_pain stiff_neck
+pneumonia
+5739188
+headache fever runny_nose sneezing muscle_pain
+sore_throat vomiting
+flu
+8764929
+headache runny_nose
+sneezing
+cold
+6289960
+runny_nose sore_throat vomiting
+fever sneezing stomach_pain stiff_neck
+cold
+2089229
+fever
+headache sore_throat
+allergies
+1025191
+coughing
+vomiting stiff_neck
+allergies
+50132
+headache sneezing
+sore_throat stomach_pain
+flu
+4619900
+
+headache coughing runny_nose sneezing stiff_neck
+food_poisoning
+9267247
+headache vomiting
+fever coughing
+food_poisoning
+2718340
+fever runny_nose sore_throat muscle_pain
+
+flu
+281764
+coughing
+runny_nose stiff_neck
+pharyngitis
+1051834
+
+headache sneezing stomach_pain stiff_neck
+cold
+3314761
+headache coughing sneezing
+fever runny_nose sore_throat vomiting stomach_pain
+allergies
+2963128
+fever sneezing stiff_neck
+coughing sore_throat
+flu
+8461817
+headache
+sneezing sore_throat stomach_pain muscle_pain stiff_neck
+meningitis
+8051478
+headache vomiting stomach_pain
+sore_throat
+food_poisoning
+3700240
+headache fever
+coughing sore_throat vomiting
+flu
+1380575
+runny_nose sneezing sore_throat
+
+cold
+5001399
+vomiting
+
+cold
+1441418
+coughing runny_nose sore_throat stiff_neck
+headache fever sneezing
+cold
+5849551
+vomiting stomach_pain
+headache fever coughing runny_nose sneezing
+food_poisoning
+1389714
+fever muscle_pain
+sore_throat stiff_neck
+flu
+1678318
+headache coughing sneezing
+vomiting muscle_pain stiff_neck
+flu
+8801985
+sore_throat
+coughing runny_nose sneezing vomiting
+meningitis
+9698435
+
+headache fever runny_nose sneezing vomiting muscle_pain stiff_neck
+pharyngitis
+2898833
+
+headache sneezing muscle_pain
+food_poisoning
+4986191
+sore_throat
+headache fever stomach_pain muscle_pain
+pharyngitis
+1406771
+fever coughing sore_throat stomach_pain
+headache runny_nose
+pneumonia
+716426
+stiff_neck
+coughing sneezing
+meningitis
+5606531
+
+runny_nose sneezing
+cold
+4805707
+coughing sore_throat
+vomiting
+flu
+1052827
+coughing stiff_neck
+headache runny_nose stomach_pain muscle_pain
+pharyngitis
+6500324
+
+headache
+pharyngitis
+6437967
+coughing muscle_pain stiff_neck
+runny_nose sneezing vomiting stomach_pain
+meningitis
+8828498
+headache fever stiff_neck
+sneezing sore_throat vomiting
+meningitis
+999239
+headache fever runny_nose
+sneezing vomiting stiff_neck
+pneumonia
+7142
+sore_throat
+fever coughing vomiting stiff_neck
+cold
+2718574
+fever
+sneezing sore_throat stiff_neck
+food_poisoning
+5723978
+sneezing
+headache vomiting stomach_pain stiff_neck
+flu
+3014999
+headache fever
+vomiting
+meningitis
+3554869
+coughing runny_nose muscle_pain
+sore_throat vomiting
+flu
+8762971
+headache fever runny_nose sore_throat muscle_pain
+
+flu
+7357828
+fever coughing runny_nose sore_throat muscle_pain
+headache vomiting
+flu
+642553
+sneezing sore_throat
+vomiting stiff_neck
+pharyngitis
+6879092
+fever
+coughing runny_nose stomach_pain muscle_pain
+meningitis
+8502140
+sneezing
+fever vomiting muscle_pain stiff_neck
+cold
+1945606
+coughing sneezing
+vomiting stomach_pain muscle_pain stiff_neck
+pharyngitis
+2582708
+runny_nose sore_throat
+fever sneezing muscle_pain
+cold
+8904947
+sneezing
+muscle_pain stiff_neck
+pneumonia
+414142
+runny_nose
+headache fever vomiting stiff_neck
+pneumonia
+7679128
+headache vomiting muscle_pain
+stiff_neck
+food_poisoning
+793931
+fever vomiting stiff_neck
+coughing sneezing stomach_pain
+meningitis
+4775563
+coughing runny_nose stiff_neck
+sneezing vomiting stomach_pain muscle_pain
+pneumonia
+3855616
+coughing
+headache vomiting stiff_neck
+allergies
+4516309
+fever
+coughing runny_nose sneezing sore_throat vomiting muscle_pain
+pneumonia
+6524928
+sore_throat
+headache fever sneezing vomiting stiff_neck
+pharyngitis
+5584264
+sore_throat
+fever vomiting stomach_pain muscle_pain
+cold
+5615401
+fever
+coughing runny_nose sneezing sore_throat
+meningitis
+7256450
+
+runny_nose vomiting stiff_neck
+pharyngitis
+6710242
+fever coughing
+sneezing stomach_pain muscle_pain
+pneumonia
+9582423
+headache runny_nose sneezing vomiting muscle_pain
+stomach_pain
+flu
+173086
+runny_nose sore_throat muscle_pain
+headache fever stomach_pain
+pharyngitis
+9468329
+
+sneezing stomach_pain stiff_neck
+flu
+1676254
+
+coughing
+flu
+3352076
+
+sneezing stiff_neck
+cold
+781677
+coughing
+sore_throat
+allergies
+5622062
+sore_throat
+headache fever sneezing vomiting stomach_pain muscle_pain
+pharyngitis
+3965537
+muscle_pain
+sore_throat vomiting stomach_pain
+pneumonia
+6592131
+headache fever sneezing vomiting
+runny_nose stiff_neck
+pneumonia
+4986022
+fever runny_nose
+vomiting
+flu
+7993592
+runny_nose muscle_pain
+
+pneumonia
+1718239
+
+headache fever sneezing sore_throat
+food_poisoning
+5519697
+
+
+flu
+2531722
+coughing
+headache runny_nose sore_throat vomiting muscle_pain
+pneumonia
+8789353
+headache stiff_neck
+coughing sore_throat vomiting stomach_pain muscle_pain
+meningitis
+3837281
+headache fever vomiting muscle_pain
+sore_throat
+flu
+6450160
+stiff_neck
+sneezing stomach_pain
+meningitis
+1534460
+coughing runny_nose sore_throat
+fever sneezing
+pharyngitis
+2507215
+coughing runny_nose sore_throat vomiting
+headache
+flu
+2001122
+sneezing
+fever sore_throat vomiting
+allergies
+9764886
+headache fever
+stiff_neck
+pneumonia
+2424092
+headache fever sore_throat
+runny_nose stomach_pain
+pneumonia
+9321096
+coughing sore_throat vomiting
+headache muscle_pain stiff_neck
+cold
+529974
+coughing runny_nose sneezing
+headache vomiting muscle_pain stiff_neck
+allergies
+2019898
+fever coughing
+sore_throat stiff_neck
+flu
+8636041
+coughing
+fever runny_nose sneezing
+pneumonia
+9679042
+stomach_pain muscle_pain
+vomiting
+flu
+6362743
+stiff_neck
+headache coughing sore_throat stomach_pain
+meningitis
+3444639
+coughing muscle_pain
+sneezing sore_throat vomiting stomach_pain
+flu
+2412251
+sore_throat
+runny_nose sneezing vomiting stomach_pain muscle_pain stiff_neck
+pharyngitis
+7755947
+coughing
+muscle_pain
+cold
+681194
+fever sore_throat
+headache runny_nose muscle_pain
+pharyngitis
+3645011
+coughing muscle_pain
+sore_throat vomiting stiff_neck
+flu
+6238789
+headache coughing runny_nose muscle_pain
+vomiting stomach_pain stiff_neck
+flu
+5940760
+fever
+sore_throat vomiting stomach_pain muscle_pain
+allergies
+730896
+vomiting
+fever coughing muscle_pain stiff_neck
+food_poisoning
+5117388
+sneezing sore_throat
+headache runny_nose muscle_pain stiff_neck
+pharyngitis
+7230958
+
+headache fever runny_nose sneezing stiff_neck
+pharyngitis
+8186591
+runny_nose sneezing
+headache fever coughing sore_throat vomiting
+allergies
+5083079
+stiff_neck
+headache sore_throat stomach_pain
+cold
+752556
+runny_nose
+vomiting muscle_pain stiff_neck
+cold
+6442726
+coughing runny_nose sore_throat
+fever stomach_pain
+pharyngitis
+7806605
+headache coughing
+sneezing
+flu
+7411829
+stiff_neck
+coughing sneezing sore_throat
+meningitis
+9192958
+muscle_pain
+headache coughing vomiting stomach_pain stiff_neck
+flu
+6364342
+headache
+sneezing muscle_pain
+meningitis
+7722505
+sore_throat vomiting
+headache fever sneezing stomach_pain stiff_neck
+cold
+5475469
+sneezing
+coughing runny_nose vomiting stiff_neck
+pneumonia
+6715480
+vomiting stiff_neck
+coughing runny_nose sneezing
+meningitis
+7253821
+coughing sneezing
+runny_nose stiff_neck
+pharyngitis
+7580847
+
+sneezing sore_throat
+meningitis
+6724903
+sore_throat
+headache fever coughing stomach_pain
+pharyngitis
+9725019
+
+vomiting
+pneumonia
+2890591
+headache
+coughing stomach_pain muscle_pain
+meningitis
+6599019
+headache runny_nose
+sore_throat vomiting stomach_pain muscle_pain
+cold
+5077310
+muscle_pain
+coughing vomiting stiff_neck
+meningitis
+9958837
+headache runny_nose
+sneezing muscle_pain stiff_neck
+flu
+2569519
+runny_nose
+fever vomiting stomach_pain muscle_pain stiff_neck
+cold
+7596172
+headache fever coughing stomach_pain
+runny_nose sneezing sore_throat
+meningitis
+4989610
+muscle_pain
+headache fever runny_nose
+cold
+3532926
+coughing sore_throat stiff_neck
+headache sneezing stomach_pain
+pharyngitis
+1197176
+coughing sore_throat muscle_pain
+headache sneezing vomiting stiff_neck
+pneumonia
+6511236
+fever sore_throat vomiting
+headache stomach_pain stiff_neck
+pharyngitis
+3483315
+fever coughing runny_nose
+vomiting stomach_pain
+flu
+5289897
+vomiting
+headache fever coughing runny_nose
+food_poisoning
+782084
+fever sneezing muscle_pain
+
+pneumonia
+2924700
+fever
+headache vomiting muscle_pain
+allergies
+1649665
+headache coughing sneezing muscle_pain
+fever runny_nose stiff_neck
+food_poisoning
+2094346
+headache coughing sore_throat
+vomiting stomach_pain muscle_pain
+pneumonia
+9439148
+fever
+coughing muscle_pain
+food_poisoning
+3042246
+sneezing
+fever sore_throat vomiting
+cold
+2302900
+fever coughing
+runny_nose sneezing stomach_pain
+pneumonia
+7802732
+runny_nose sore_throat
+sneezing muscle_pain
+pharyngitis
+1843149
+coughing sore_throat
+vomiting stomach_pain stiff_neck
+pneumonia
+4134745
+fever sneezing
+
+pneumonia
+9661653
+coughing runny_nose stomach_pain
+headache sneezing muscle_pain stiff_neck
+pneumonia
+3627842
+headache
+sore_throat vomiting stomach_pain
+meningitis
+8318006
+headache vomiting
+sneezing muscle_pain
+meningitis
+8761835
+headache fever sneezing stomach_pain
+coughing runny_nose sore_throat
+food_poisoning
+6917363
+headache fever runny_nose sore_throat muscle_pain stiff_neck
+stomach_pain
+flu
+4336655
+
+runny_nose sneezing muscle_pain stiff_neck
+food_poisoning
+584669
+vomiting
+headache stiff_neck
+food_poisoning
+6859178
+fever sore_throat vomiting
+coughing runny_nose sneezing
+meningitis
+3547409
+runny_nose
+stomach_pain muscle_pain
+cold
+4574762
+muscle_pain stiff_neck
+headache fever coughing sneezing vomiting
+food_poisoning
+8336537
+sneezing vomiting
+headache sore_throat stiff_neck
+food_poisoning
+1104486
+headache coughing sneezing stiff_neck
+fever vomiting
+pharyngitis
+9343496
+coughing sore_throat
+headache fever vomiting stomach_pain muscle_pain
+pharyngitis
+9938672
+
+sore_throat vomiting stomach_pain muscle_pain stiff_neck
+pneumonia
+2120219
+headache coughing muscle_pain
+sore_throat vomiting stomach_pain
+pneumonia
+5265673
+fever runny_nose
+sore_throat vomiting stomach_pain muscle_pain stiff_neck
+pneumonia
+4618371
+fever vomiting stiff_neck
+runny_nose sore_throat
+meningitis
+6769000
+vomiting stiff_neck
+coughing runny_nose sore_throat stomach_pain muscle_pain
+meningitis
+5929825
+headache
+runny_nose sneezing
+food_poisoning
+6022843
+fever coughing runny_nose sneezing sore_throat stiff_neck
+muscle_pain
+flu
+5529191
+sneezing
+headache coughing stomach_pain stiff_neck
+allergies
+5995613
+fever coughing
+runny_nose sore_throat vomiting stomach_pain
+pneumonia
+239465
+vomiting stiff_neck
+coughing runny_nose sore_throat muscle_pain
+meningitis
+5290232
+coughing stomach_pain muscle_pain
+sneezing sore_throat
+food_poisoning
+8137816
+sore_throat
+headache fever stomach_pain muscle_pain stiff_neck
+cold
+2825207
+fever stiff_neck
+runny_nose sore_throat vomiting stomach_pain
+meningitis
+8258780
+coughing
+stomach_pain
+pharyngitis
+9245603
+runny_nose stiff_neck
+fever coughing sneezing sore_throat vomiting
+food_poisoning
+2003527
+coughing runny_nose
+fever vomiting stiff_neck
+flu
+4609397
+headache fever vomiting
+stomach_pain muscle_pain
+flu
+2226314
+headache fever coughing sneezing stiff_neck
+stomach_pain
+flu
+3265750
+
+runny_nose stomach_pain muscle_pain stiff_neck
+pneumonia
+4178332
+muscle_pain stiff_neck
+fever vomiting
+allergies
+7900564
+vomiting stomach_pain stiff_neck
+headache coughing
+food_poisoning
+7569313
+fever stiff_neck
+coughing runny_nose sore_throat vomiting muscle_pain
+meningitis
+9557855
+headache muscle_pain
+sneezing stiff_neck
+flu
+4175408
+headache fever coughing
+runny_nose stomach_pain stiff_neck
+pneumonia
+9718129
+headache fever stiff_neck
+coughing
+food_poisoning
+8379870
+
+sneezing sore_throat vomiting stomach_pain stiff_neck
+pneumonia
+7842937
+fever vomiting stiff_neck
+coughing sore_throat
+meningitis
+9466840
+headache sore_throat vomiting muscle_pain
+stiff_neck
+flu
+1730165
+headache runny_nose sneezing sore_throat vomiting muscle_pain stiff_neck
+stomach_pain
+flu
+7454078
+fever
+coughing vomiting stomach_pain muscle_pain
+allergies
+3023069
+coughing runny_nose
+fever vomiting muscle_pain stiff_neck
+cold
+7590533
+fever
+vomiting
+flu
+2250022
+fever sneezing sore_throat vomiting
+headache coughing
+food_poisoning
+3477228
+sneezing vomiting
+headache fever sore_throat stiff_neck
+cold
+5645522
+sore_throat
+fever runny_nose vomiting muscle_pain stiff_neck
+pharyngitis
+4531984
+fever runny_nose sneezing muscle_pain
+headache sore_throat
+flu
+8394272
+runny_nose sneezing
+fever vomiting muscle_pain
+cold
+46834
+fever muscle_pain
+runny_nose sore_throat vomiting
+meningitis
+997151
+coughing
+headache runny_nose sneezing vomiting muscle_pain stiff_neck
+pharyngitis
+2976662
+headache stomach_pain
+fever coughing runny_nose sore_throat
+food_poisoning
+9312602
+runny_nose
+headache sore_throat vomiting stomach_pain muscle_pain stiff_neck
+pneumonia
+7856854
+fever
+coughing sneezing muscle_pain stiff_neck
+food_poisoning
+5122746
+headache fever runny_nose
+sore_throat stomach_pain muscle_pain stiff_neck
+allergies
+986261
+fever coughing
+vomiting muscle_pain stiff_neck
+cold
+2978197
+sneezing
+headache fever runny_nose stomach_pain muscle_pain
+allergies
+5854502
+fever sneezing muscle_pain
+coughing vomiting stomach_pain
+pneumonia
+7161572
+
+sneezing sore_throat muscle_pain
+meningitis
+8180974
+headache fever stomach_pain
+runny_nose sneezing sore_throat stiff_neck
+food_poisoning
+992179
+fever coughing runny_nose sneezing
+stomach_pain stiff_neck
+allergies
+8246758
+fever
+runny_nose sore_throat stomach_pain muscle_pain
+allergies
+6123352
+headache fever coughing runny_nose sneezing stomach_pain
+stiff_neck
+flu
+4450909
+sore_throat
+headache fever runny_nose vomiting stomach_pain
+allergies
+6403910
+headache fever
+runny_nose stomach_pain
+meningitis
+4041777
+headache
+runny_nose sore_throat stomach_pain
+pneumonia
+7233508
+muscle_pain
+headache coughing runny_nose sore_throat stiff_neck
+food_poisoning
+5465270
+headache fever runny_nose
+sore_throat vomiting stomach_pain muscle_pain
+pneumonia
+73358
+headache coughing runny_nose sneezing
+
+cold
+2433833
+fever
+coughing runny_nose muscle_pain
+food_poisoning
+4664584
+headache fever
+coughing runny_nose sneezing
+meningitis
+8729662
+fever
+vomiting stiff_neck
+flu
+2263535
+coughing
+headache runny_nose sore_throat vomiting
+allergies
+6565024
+coughing vomiting
+stiff_neck
+meningitis
+868697
+
+sore_throat vomiting stomach_pain muscle_pain
+meningitis
+6324044
+runny_nose
+headache sneezing
+cold
+2295330
+coughing runny_nose muscle_pain
+headache sore_throat vomiting stomach_pain stiff_neck
+cold
+9408944
+fever coughing runny_nose
+vomiting stomach_pain muscle_pain
+pneumonia
+2115147
+headache sneezing
+stomach_pain
+flu
+9257401
+coughing runny_nose sneezing
+sore_throat vomiting stomach_pain
+allergies
+8279854
+coughing sneezing
+headache fever stomach_pain muscle_pain stiff_neck
+allergies
+6635461
+
+
+pneumonia
+332968
+fever runny_nose muscle_pain stiff_neck
+sore_throat vomiting stomach_pain
+flu
+5922022
+coughing
+headache runny_nose stiff_neck
+pharyngitis
+1712790
+headache stiff_neck
+coughing sneezing vomiting stomach_pain muscle_pain
+meningitis
+2255253
+vomiting
+runny_nose sneezing stiff_neck
+food_poisoning
+4661060
+
+headache sore_throat vomiting stomach_pain stiff_neck
+cold
+896901
+headache runny_nose
+coughing stomach_pain
+meningitis
+8140950
+
+headache vomiting
+flu
+8170755
+stomach_pain
+coughing runny_nose
+food_poisoning
+2459938
+fever sneezing
+headache stomach_pain muscle_pain
+pneumonia
+2140386
+headache vomiting muscle_pain
+runny_nose
+food_poisoning
+1174130
+headache fever
+stomach_pain muscle_pain
+meningitis
+1570973
+fever
+headache stomach_pain muscle_pain
+pneumonia
+9475721
+coughing sneezing muscle_pain
+headache fever
+cold
+7426377
+runny_nose
+sneezing vomiting stomach_pain
+flu
+4244620
+headache fever sneezing
+stomach_pain
+pneumonia
+1774332
+coughing
+sore_throat vomiting stomach_pain
+allergies
+7835322
+
+runny_nose
+food_poisoning
+8075570
+coughing
+fever stiff_neck
+cold
+9314721
+coughing sneezing
+vomiting stomach_pain
+allergies
+3525092
+fever runny_nose
+coughing vomiting
+meningitis
+653271
+headache fever coughing
+stomach_pain
+pneumonia
+5224109
+fever coughing
+headache
+pharyngitis
+5498323
+coughing sneezing
+fever stomach_pain
+allergies
+9791492
+fever runny_nose sneezing stiff_neck
+stomach_pain
+allergies
+513208
+headache
+runny_nose sneezing sore_throat vomiting muscle_pain
+pneumonia
+2755974
+fever
+muscle_pain
+pneumonia
+4493308
+sneezing muscle_pain
+sore_throat stomach_pain
+pneumonia
+5204682
+headache runny_nose stiff_neck
+coughing sore_throat stomach_pain muscle_pain
+allergies
+5789707
+sneezing
+fever runny_nose sore_throat vomiting stomach_pain muscle_pain stiff_neck
+allergies
+6086653
+coughing runny_nose
+stomach_pain stiff_neck
+allergies
+2403877
+stiff_neck
+coughing runny_nose sneezing sore_throat vomiting
+meningitis
+5698400
+coughing runny_nose stiff_neck
+headache fever vomiting stomach_pain
+allergies
+8688595
+
+runny_nose sneezing sore_throat muscle_pain stiff_neck
+food_poisoning
+6675243
+headache fever
+coughing sneezing vomiting stomach_pain
+meningitis
+7851373
+headache stiff_neck
+fever runny_nose sneezing vomiting muscle_pain
+food_poisoning
+837219
+coughing stomach_pain
+sneezing sore_throat stiff_neck
+food_poisoning
+4558462
+stomach_pain muscle_pain
+coughing runny_nose sneezing sore_throat stiff_neck
+food_poisoning
+853553
+muscle_pain
+stiff_neck
+flu
+9384421
+sore_throat vomiting
+stomach_pain
+cold
+1148774
+headache fever coughing runny_nose vomiting
+sore_throat stomach_pain
+flu
+4866369
+muscle_pain
+coughing sore_throat vomiting
+food_poisoning
+124272
+sneezing
+runny_nose muscle_pain stiff_neck
+pharyngitis
+6927022
+headache fever coughing sneezing stomach_pain muscle_pain
+
+flu
+1553412
+
+coughing runny_nose sneezing muscle_pain
+pneumonia
+8391425
+headache runny_nose stiff_neck
+coughing sneezing vomiting stomach_pain
+flu
+6684032
+stiff_neck
+headache fever coughing vomiting
+cold
+4854734
+coughing muscle_pain
+runny_nose sneezing
+pharyngitis
+5338701
+headache fever runny_nose stiff_neck
+sneezing
+food_poisoning
+2321434
+runny_nose
+headache sneezing stomach_pain stiff_neck
+pharyngitis
+2763332
+vomiting
+coughing muscle_pain
+food_poisoning
+5020883
+runny_nose
+coughing stomach_pain muscle_pain stiff_neck
+allergies
+427477
+coughing
+headache vomiting stomach_pain muscle_pain
+pneumonia
+9705103
+sore_throat
+headache muscle_pain stiff_neck
+pharyngitis
+777839
+headache vomiting
+coughing stiff_neck
+food_poisoning
+743538
+muscle_pain stiff_neck
+vomiting
+meningitis
+1431321
+runny_nose
+vomiting
+pharyngitis
+2045045
+coughing sore_throat
+sneezing
+pharyngitis
+1649863
+headache sore_throat
+runny_nose stomach_pain
+meningitis
+4907982
+
+headache vomiting stomach_pain muscle_pain stiff_neck
+allergies
+2671552
+coughing vomiting stomach_pain muscle_pain
+headache sore_throat stiff_neck
+food_poisoning
+3607986
+fever stomach_pain stiff_neck
+headache sneezing sore_throat
+food_poisoning
+5106891
+sore_throat
+runny_nose sneezing vomiting
+pneumonia
+7408100
+headache fever coughing
+sneezing sore_throat
+food_poisoning
+8456544
+sore_throat
+headache fever coughing vomiting
+pharyngitis
+7942651
+
+headache vomiting stomach_pain
+pharyngitis
+9091708
+headache stiff_neck
+fever
+meningitis
+5649999
+headache stiff_neck
+stomach_pain
+meningitis
+6697993
+
+sneezing vomiting stomach_pain stiff_neck
+flu
+8138774
+stiff_neck
+coughing runny_nose sneezing
+pneumonia
+5326980
+vomiting stiff_neck
+fever coughing
+meningitis
+2348759
+coughing sneezing vomiting muscle_pain
+headache sore_throat stomach_pain
+cold
+8646123
+
+fever stiff_neck
+pharyngitis
+4125185
+headache fever coughing runny_nose
+vomiting muscle_pain stiff_neck
+allergies
+8392876
+headache fever muscle_pain
+runny_nose stiff_neck
+meningitis
+3258512
+fever coughing runny_nose sneezing sore_throat
+vomiting
+pharyngitis
+3031028
+vomiting
+fever runny_nose sneezing stomach_pain
+food_poisoning
+9106491
+
+headache coughing runny_nose sneezing vomiting stomach_pain
+meningitis
+1637666
+headache fever stomach_pain stiff_neck
+runny_nose sneezing sore_throat
+meningitis
+8290713
+runny_nose
+sneezing vomiting stomach_pain stiff_neck
+flu
+2190934
+sneezing vomiting stomach_pain
+headache fever runny_nose sore_throat stiff_neck
+food_poisoning
+4534722
+runny_nose vomiting
+sneezing muscle_pain
+cold
+2695027
+sore_throat
+headache fever runny_nose sneezing stomach_pain muscle_pain
+pharyngitis
+5227392
+runny_nose
+headache fever stomach_pain
+allergies
+2940037
+fever vomiting
+coughing runny_nose sore_throat stomach_pain stiff_neck
+food_poisoning
+5499202
+stomach_pain
+headache coughing runny_nose sneezing sore_throat muscle_pain
+food_poisoning
+7709143
+fever sore_throat stomach_pain stiff_neck
+coughing sneezing vomiting muscle_pain
+meningitis
+1930217
+fever muscle_pain
+sneezing vomiting
+pharyngitis
+4175929
+stiff_neck
+sneezing stomach_pain
+meningitis
+6401893
+coughing sneezing
+fever runny_nose vomiting stomach_pain muscle_pain
+pharyngitis
+6659096
+fever runny_nose
+muscle_pain stiff_neck
+flu
+4842431
+headache fever vomiting muscle_pain stiff_neck
+coughing sneezing sore_throat
+meningitis
+6791711
+sneezing
+sore_throat stomach_pain
+allergies
+9772138
+runny_nose sneezing
+headache stomach_pain
+allergies
+9135799
+fever
+vomiting
+meningitis
+8990799
+stomach_pain
+headache fever runny_nose stiff_neck
+food_poisoning
+1313376
+sore_throat
+headache coughing vomiting muscle_pain
+allergies
+5817495
+fever coughing runny_nose sore_throat
+stomach_pain
+flu
+2862170
+vomiting muscle_pain
+fever coughing runny_nose sneezing sore_throat
+food_poisoning
+8946855
+runny_nose sneezing
+stomach_pain muscle_pain stiff_neck
+cold
+969500
+coughing runny_nose sore_throat muscle_pain
+vomiting stomach_pain
+flu
+6631905
+
+headache sneezing vomiting stiff_neck
+cold
+1810819
+headache coughing sore_throat
+vomiting stomach_pain stiff_neck
+pharyngitis
+2639169
+sneezing stiff_neck
+coughing runny_nose sore_throat
+meningitis
+7874258
+coughing sore_throat stomach_pain
+headache stiff_neck
+pneumonia
+862935
+
+headache muscle_pain
+food_poisoning
+8331078
+coughing runny_nose sneezing sore_throat
+stiff_neck
+flu
+8461760
+fever coughing muscle_pain
+stomach_pain
+pneumonia
+9172768
+headache fever
+vomiting stomach_pain
+meningitis
+6194795
+fever
+headache coughing sneezing
+meningitis
+5409532
+runny_nose sore_throat stiff_neck
+headache fever stomach_pain
+allergies
+7159575
+runny_nose muscle_pain stiff_neck
+fever
+meningitis
+4170980
+headache runny_nose sore_throat muscle_pain
+vomiting stiff_neck
+flu
+6474812
+fever sore_throat
+headache runny_nose sneezing vomiting muscle_pain
+pharyngitis
+2006035
+
+coughing runny_nose sneezing vomiting muscle_pain
+meningitis
+1332483
+coughing
+sneezing stiff_neck
+pneumonia
+9451667
+sneezing
+fever coughing sore_throat vomiting stomach_pain
+allergies
+295821
+sneezing
+headache vomiting stiff_neck
+pharyngitis
+3078860
+fever coughing runny_nose sneezing muscle_pain
+sore_throat vomiting
+flu
+7619695
+sneezing muscle_pain
+headache fever coughing vomiting stomach_pain
+allergies
+1293222
+fever coughing
+headache runny_nose vomiting stiff_neck
+allergies
+2285754
+
+headache fever vomiting muscle_pain
+allergies
+9694635
+headache sore_throat
+muscle_pain stiff_neck
+pneumonia
+8596510
+
+runny_nose muscle_pain stiff_neck
+meningitis
+5381057
+sneezing
+headache coughing
+food_poisoning
+7656671
+fever sore_throat vomiting
+sneezing stomach_pain muscle_pain stiff_neck
+pneumonia
+5256594
+coughing sore_throat
+headache runny_nose sneezing stomach_pain
+pharyngitis
+9280066
+
+headache sore_throat stomach_pain muscle_pain stiff_neck
+flu
+7896220
+coughing
+sneezing sore_throat
+cold
+9186173
+coughing sore_throat
+fever vomiting stiff_neck
+pharyngitis
+9453181
+coughing muscle_pain stiff_neck
+sneezing vomiting stomach_pain
+pneumonia
+2169604
+coughing stiff_neck
+fever vomiting stomach_pain muscle_pain
+pharyngitis
+5908101
+coughing runny_nose sneezing
+headache fever vomiting stomach_pain
+allergies
+4226966
+coughing
+fever sneezing sore_throat
+pharyngitis
+6492328
+headache fever
+runny_nose muscle_pain
+pneumonia
+8612652
+stiff_neck
+sore_throat muscle_pain
+food_poisoning
+1676613
+runny_nose muscle_pain
+headache
+flu
+1652393
+sneezing
+fever sore_throat vomiting stomach_pain
+allergies
+1211413
+headache fever vomiting stomach_pain
+
+food_poisoning
+4092981
+headache sneezing stiff_neck
+fever coughing sore_throat
+allergies
+9815285
+coughing runny_nose sore_throat
+headache fever sneezing vomiting stiff_neck
+pharyngitis
+5496422
+
+fever vomiting stiff_neck
+allergies
+1582819
+fever coughing
+headache runny_nose sore_throat vomiting stomach_pain muscle_pain
+pneumonia
+2852110
+vomiting muscle_pain stiff_neck
+sneezing stomach_pain
+meningitis
+286998
+fever sneezing
+headache muscle_pain stiff_neck
+allergies
+754045
+coughing
+sore_throat vomiting stomach_pain muscle_pain stiff_neck
+pneumonia
+919934
+
+fever vomiting
+cold
+7135976
+coughing sneezing
+sore_throat vomiting stomach_pain muscle_pain stiff_neck
+flu
+1629164
+runny_nose sore_throat
+headache fever sneezing muscle_pain stiff_neck
+pharyngitis
+4748982
+fever vomiting stomach_pain
+headache coughing runny_nose stiff_neck
+food_poisoning
+4076675
+coughing
+fever sneezing muscle_pain
+cold
+875988
+headache muscle_pain
+vomiting stomach_pain
+pneumonia
+9498298
+
+headache coughing runny_nose sore_throat vomiting muscle_pain stiff_neck
+allergies
+3836921
+headache vomiting stiff_neck
+coughing runny_nose sore_throat stomach_pain muscle_pain
+meningitis
+1086851
+headache muscle_pain stiff_neck
+stomach_pain
+pneumonia
+8449046
+fever coughing runny_nose stomach_pain stiff_neck
+sneezing vomiting muscle_pain
+flu
+6118902
+fever stiff_neck
+sneezing sore_throat
+meningitis
+9831385
+
+fever vomiting
+cold
+2159356
+
+runny_nose vomiting stiff_neck
+allergies
+9563386
+fever coughing
+runny_nose vomiting stiff_neck
+pneumonia
+7697588
+
+headache fever runny_nose sore_throat
+food_poisoning
+1695052
+headache coughing runny_nose sneezing muscle_pain
+sore_throat vomiting
+flu
+3122812
+coughing runny_nose
+stomach_pain muscle_pain stiff_neck
+cold
+3530059
+coughing runny_nose
+headache sore_throat
+cold
+3522588
+fever
+coughing sneezing sore_throat vomiting
+meningitis
+695376
+fever coughing sneezing muscle_pain
+headache stomach_pain stiff_neck
+pneumonia
+1597156
+coughing sneezing sore_throat
+fever runny_nose stomach_pain muscle_pain
+pharyngitis
+7249375
+stiff_neck
+coughing sneezing stomach_pain muscle_pain
+meningitis
+3063591
+fever stiff_neck
+coughing sneezing sore_throat stomach_pain
+meningitis
+1212388
+headache fever runny_nose stiff_neck
+coughing sore_throat vomiting muscle_pain
+flu
+1946220
+sore_throat muscle_pain
+sneezing
+pneumonia
+9560930
+headache fever runny_nose
+sore_throat stomach_pain muscle_pain stiff_neck
+flu
+3476040
+fever
+vomiting stomach_pain muscle_pain
+meningitis
+9407967
+coughing sneezing
+headache fever
+cold
+8990366
+headache vomiting stomach_pain muscle_pain
+coughing
+food_poisoning
+8546651
+headache
+fever coughing sore_throat vomiting stomach_pain muscle_pain
+meningitis
+3256613
+
+headache sneezing sore_throat vomiting muscle_pain stiff_neck
+cold
+8558061
+headache
+runny_nose sneezing
+pneumonia
+7681772
+runny_nose
+headache
+cold
+9612832
+headache fever coughing
+runny_nose muscle_pain stiff_neck
+flu
+3213964
+coughing runny_nose
+fever sore_throat stomach_pain
+cold
+1261593
+coughing
+fever sneezing vomiting
+cold
+7863771
+sore_throat
+vomiting
+pneumonia
+5500745
+coughing
+stiff_neck
+cold
+5580498
+sneezing vomiting
+headache stomach_pain muscle_pain stiff_neck
+cold
+6208876
+coughing
+sneezing stomach_pain stiff_neck
+cold
+9883206
+stomach_pain stiff_neck
+headache fever runny_nose sneezing muscle_pain
+food_poisoning
+4888629
+fever stomach_pain
+headache runny_nose stiff_neck
+pneumonia
+4714960
+runny_nose
+sore_throat vomiting stomach_pain stiff_neck
+cold
+6757884
+headache
+fever runny_nose
+meningitis
+8521323
+vomiting
+headache
+food_poisoning
+7256465
+headache sneezing muscle_pain
+sore_throat stomach_pain
+flu
+1625196
+sneezing stiff_neck
+headache fever
+pharyngitis
+839854
+sneezing
+headache sore_throat vomiting stomach_pain muscle_pain stiff_neck
+pneumonia
+9929615
+headache fever stomach_pain
+sneezing muscle_pain
+food_poisoning
+2493035
+coughing vomiting
+headache sore_throat
+food_poisoning
+8791515
+vomiting
+coughing stomach_pain stiff_neck
+pneumonia
+8026069
+sore_throat stiff_neck
+coughing runny_nose sneezing stomach_pain
+meningitis
+6213305
+headache muscle_pain
+sneezing vomiting
+flu
+2663285
+sore_throat
+headache sneezing
+pharyngitis
+6331348
+runny_nose sneezing
+fever coughing sore_throat muscle_pain
+allergies
+9448193
+vomiting stomach_pain
+headache coughing sneezing sore_throat
+food_poisoning
+2241538
+fever coughing stiff_neck
+runny_nose sneezing stomach_pain
+pneumonia
+7253447
+muscle_pain stiff_neck
+runny_nose sneezing vomiting stomach_pain
+meningitis
+2537456
+stomach_pain
+fever sore_throat muscle_pain
+meningitis
+5717386
+sore_throat
+headache coughing stomach_pain stiff_neck
+pharyngitis
+6537398
+coughing sore_throat
+headache stomach_pain
+allergies
+5972501
+fever runny_nose vomiting muscle_pain
+headache sneezing stiff_neck
+pneumonia
+2014077
+headache runny_nose sneezing muscle_pain
+stiff_neck
+flu
+4582667
+coughing runny_nose muscle_pain
+sore_throat stomach_pain
+pneumonia
+4435912
+sneezing vomiting stomach_pain
+fever coughing sore_throat
+food_poisoning
+3491349
+runny_nose sneezing
+headache sore_throat stiff_neck
+allergies
+1600313
+sneezing
+fever coughing muscle_pain stiff_neck
+pharyngitis
+9718449
+fever coughing
+runny_nose vomiting muscle_pain stiff_neck
+pneumonia
+1727776
+sore_throat muscle_pain
+coughing runny_nose stiff_neck
+food_poisoning
+4621746
+runny_nose
+headache stiff_neck
+allergies
+1840292
+runny_nose sore_throat
+headache coughing stiff_neck
+cold
+4217107
+runny_nose
+vomiting stiff_neck
+pneumonia
+8157679
+vomiting
+headache fever runny_nose sneezing
+food_poisoning
+5580996
+vomiting stomach_pain
+headache runny_nose
+food_poisoning
+5187025
+
+runny_nose sneezing sore_throat muscle_pain stiff_neck
+food_poisoning
+702669
+
+stomach_pain stiff_neck
+flu
+8587928
+coughing sore_throat
+sneezing stomach_pain
+pharyngitis
+639618
+
+coughing stomach_pain muscle_pain stiff_neck
+meningitis
+7177346
+coughing vomiting
+fever sneezing sore_throat stomach_pain stiff_neck
+cold
+2910154
+fever
+headache runny_nose sneezing stomach_pain muscle_pain stiff_neck
+pneumonia
+4036032
+coughing runny_nose sore_throat
+stomach_pain
+pharyngitis
+9857353
+headache fever coughing runny_nose
+sore_throat stomach_pain
+pneumonia
+738005
+
+fever stomach_pain stiff_neck
+flu
+8808935
+
+headache muscle_pain
+cold
+3513649
+fever
+coughing sneezing
+pharyngitis
+5789533
+
+vomiting stomach_pain stiff_neck
+pharyngitis
+8290664
+sneezing vomiting stomach_pain
+coughing sore_throat
+food_poisoning
+3440881
+fever vomiting
+coughing sneezing sore_throat muscle_pain
+food_poisoning
+2480447
+fever sneezing sore_throat
+headache coughing runny_nose muscle_pain
+food_poisoning
+1790129
+coughing
+headache fever sneezing stomach_pain
+cold
+8425298
+headache fever runny_nose stiff_neck
+sore_throat
+flu
+75651
+runny_nose muscle_pain
+sneezing vomiting
+pneumonia
+1800985
+runny_nose sneezing
+sore_throat vomiting stomach_pain stiff_neck
+allergies
+7034091
+headache
+coughing sneezing stomach_pain muscle_pain
+meningitis
+3241263
+sneezing
+headache coughing sore_throat stomach_pain muscle_pain
+allergies
+5561315
+fever sneezing muscle_pain stiff_neck
+sore_throat stomach_pain
+meningitis
+2706004
+fever sore_throat stiff_neck
+vomiting stomach_pain muscle_pain
+pharyngitis
+4637380
+coughing stomach_pain
+vomiting
+pneumonia
+949180
+headache runny_nose vomiting stiff_neck
+sneezing stomach_pain muscle_pain
+meningitis
+2963307
+stomach_pain stiff_neck
+fever sneezing sore_throat muscle_pain
+food_poisoning
+7572658
+stiff_neck
+coughing runny_nose sneezing vomiting stomach_pain muscle_pain
+meningitis
+7408650
+vomiting
+headache fever coughing sneezing stiff_neck
+food_poisoning
+7440657
+runny_nose sore_throat vomiting
+headache fever stomach_pain muscle_pain stiff_neck
+cold
+3467523
+sore_throat
+fever muscle_pain
+pharyngitis
+7380132
+runny_nose sore_throat stiff_neck
+vomiting
+pharyngitis
+4265799
+runny_nose sneezing sore_throat
+headache coughing stomach_pain
+allergies
+7762745
+runny_nose
+sore_throat vomiting muscle_pain
+allergies
+274736
+runny_nose stiff_neck
+headache sneezing
+pneumonia
+3380982
+runny_nose
+fever muscle_pain stiff_neck
+allergies
+1135931
+fever vomiting
+headache runny_nose sore_throat stomach_pain
+cold
+8353134
+sneezing sore_throat
+muscle_pain stiff_neck
+cold
+6095954
+
+fever coughing sneezing muscle_pain
+cold
+2957411
+headache fever coughing
+
+pneumonia
+3643034
+runny_nose
+headache sneezing vomiting stomach_pain stiff_neck
+cold
+9078998
+headache coughing stomach_pain
+fever sneezing sore_throat muscle_pain stiff_neck
+food_poisoning
+3551056
+stiff_neck
+runny_nose sneezing
+meningitis
+1691683
+headache
+coughing runny_nose sore_throat
+pneumonia
+564952
+sneezing
+coughing sore_throat vomiting stomach_pain stiff_neck
+allergies
+6645186
+
+fever sore_throat vomiting
+flu
+6466228
+runny_nose muscle_pain
+headache stomach_pain
+cold
+5544809
+runny_nose sore_throat
+headache sneezing vomiting muscle_pain stiff_neck
+pharyngitis
+8514887
+stomach_pain
+sore_throat vomiting stiff_neck
+flu
+9498289
+fever stiff_neck
+sneezing sore_throat vomiting stomach_pain muscle_pain
+meningitis
+3417100
+
+fever sore_throat vomiting muscle_pain
+cold
+1604709
+sore_throat
+headache runny_nose vomiting stomach_pain muscle_pain
+pneumonia
+8786150
+fever sneezing
+headache coughing sore_throat stomach_pain muscle_pain
+allergies
+2683416
+runny_nose
+stiff_neck
+cold
+5420860
+vomiting stomach_pain
+headache fever sneezing sore_throat muscle_pain
+food_poisoning
+1259625
+coughing
+runny_nose vomiting stiff_neck
+pneumonia
+9919627
+headache coughing
+vomiting muscle_pain stiff_neck
+pneumonia
+749979
+fever coughing sneezing
+headache runny_nose sore_throat vomiting stomach_pain muscle_pain stiff_neck
+allergies
+3044098
+stiff_neck
+headache fever vomiting muscle_pain
+cold
+9192103
+fever coughing
+sore_throat stomach_pain
+allergies
+6384558
+sore_throat
+headache runny_nose
+pharyngitis
+6893479
+
+sneezing sore_throat stomach_pain stiff_neck
+cold
+8460326
+runny_nose
+fever coughing sore_throat stomach_pain
+allergies
+1199612
+fever coughing sneezing sore_throat
+runny_nose vomiting muscle_pain
+pharyngitis
+2273978
+coughing sneezing
+muscle_pain stiff_neck
+allergies
+602137
+fever coughing runny_nose sneezing sore_throat
+headache vomiting stomach_pain muscle_pain stiff_neck
+allergies
+944757
+headache coughing runny_nose sneezing
+vomiting stomach_pain muscle_pain
+allergies
+3186187
+stomach_pain
+coughing sore_throat muscle_pain
+meningitis
+7943238
+
+vomiting muscle_pain
+cold
+3162223
+headache
+fever coughing sneezing sore_throat stomach_pain
+meningitis
+1046005
+coughing sneezing stomach_pain
+headache sore_throat stiff_neck
+allergies
+7172357
+coughing
+headache muscle_pain
+pharyngitis
+4342971
+fever coughing sneezing
+headache muscle_pain
+pneumonia
+7630003
+headache vomiting stiff_neck
+coughing sneezing muscle_pain
+meningitis
+3938212
+
+fever stomach_pain stiff_neck
+allergies
+7094276
+stomach_pain
+headache runny_nose muscle_pain
+food_poisoning
+4992462
+runny_nose sore_throat stiff_neck
+fever stomach_pain muscle_pain
+flu
+9665399
+stomach_pain muscle_pain
+headache runny_nose sore_throat stiff_neck
+allergies
+3084046
+sneezing
+coughing sore_throat vomiting muscle_pain stiff_neck
+allergies
+4452841
+runny_nose stomach_pain
+headache vomiting muscle_pain stiff_neck
+cold
+2989539
+runny_nose
+fever sore_throat stomach_pain stiff_neck
+cold
+1881531
+headache
+fever sneezing muscle_pain stiff_neck
+pharyngitis
+6854324
+sore_throat
+sneezing stiff_neck
+cold
+1768209
+headache fever runny_nose vomiting
+coughing stiff_neck
+flu
+9118471
+headache sore_throat
+fever runny_nose sneezing stomach_pain muscle_pain stiff_neck
+pharyngitis
+9955780
+headache muscle_pain
+runny_nose sore_throat
+food_poisoning
+5785234
+vomiting
+runny_nose stomach_pain muscle_pain
+meningitis
+7315439
+coughing
+runny_nose sneezing vomiting stiff_neck
+pharyngitis
+902717
+coughing sneezing sore_throat muscle_pain
+fever stomach_pain stiff_neck
+cold
+9504243
+coughing
+vomiting stomach_pain muscle_pain
+cold
+2149038
+sore_throat
+headache fever vomiting stomach_pain muscle_pain
+pharyngitis
+7780662
+runny_nose
+stomach_pain muscle_pain
+pharyngitis
+1943755
+sneezing
+headache stomach_pain stiff_neck
+pharyngitis
+565034
+sneezing sore_throat
+fever runny_nose vomiting muscle_pain stiff_neck
+pharyngitis
+8255896
+stiff_neck
+coughing stomach_pain
+meningitis
+3499115
+sneezing
+coughing runny_nose sore_throat stomach_pain muscle_pain stiff_neck
+allergies
+1118968
+coughing runny_nose sneezing
+headache stomach_pain muscle_pain stiff_neck
+flu
+928745
+vomiting stomach_pain muscle_pain
+runny_nose sore_throat
+food_poisoning
+245055
+sneezing
+fever vomiting stomach_pain stiff_neck
+cold
+5904080
+sneezing
+headache fever sore_throat muscle_pain stiff_neck
+allergies
+5601143
+vomiting stomach_pain
+headache fever coughing sore_throat muscle_pain
+food_poisoning
+2425583
+
+vomiting stomach_pain stiff_neck
+pneumonia
+3436132
+headache
+coughing sneezing muscle_pain
+meningitis
+1731269
+fever stomach_pain muscle_pain stiff_neck
+headache vomiting
+allergies
+7999338
+headache runny_nose muscle_pain
+vomiting stiff_neck
+pneumonia
+2321422
+headache fever coughing sneezing
+runny_nose sore_throat stiff_neck
+flu
+2108645
+fever sneezing vomiting stomach_pain
+headache sore_throat stiff_neck
+food_poisoning
+1395361
+
+headache fever coughing sneezing sore_throat stiff_neck
+allergies
+7699457
+fever runny_nose sneezing
+headache vomiting muscle_pain
+allergies
+9920217
+fever
+sneezing sore_throat vomiting muscle_pain stiff_neck
+pneumonia
+8377094
+sneezing
+fever coughing sore_throat stiff_neck
+allergies
+2296390
+sore_throat
+headache fever runny_nose muscle_pain stiff_neck
+food_poisoning
+2174802
+coughing
+sore_throat vomiting stomach_pain stiff_neck
+pharyngitis
+4247415
+sneezing sore_throat
+muscle_pain stiff_neck
+cold
+5688565
+sneezing sore_throat
+fever runny_nose vomiting stomach_pain stiff_neck
+cold
+1943316
+fever muscle_pain
+sore_throat stomach_pain stiff_neck
+flu
+8541083
+sore_throat
+headache fever runny_nose muscle_pain stiff_neck
+allergies
+4236892
+fever coughing sneezing
+headache stomach_pain stiff_neck
+pneumonia
+3384934
+coughing runny_nose
+vomiting
+flu
+2849561
+fever
+headache coughing sore_throat stomach_pain
+meningitis
+5397428
+headache fever vomiting
+stomach_pain muscle_pain
+meningitis
+8120133
+sore_throat
+fever coughing vomiting
+cold
+6077824
+fever
+sneezing sore_throat stiff_neck
+pneumonia
+1655386
+stiff_neck
+sore_throat
+meningitis
+8860861
+fever muscle_pain stiff_neck
+coughing sneezing sore_throat
+meningitis
+7889839
+sneezing muscle_pain
+headache coughing runny_nose
+allergies
+7687003
+sneezing sore_throat stomach_pain
+coughing
+food_poisoning
+2461432
+muscle_pain
+headache coughing runny_nose sneezing sore_throat vomiting
+meningitis
+5424134
+stomach_pain
+headache vomiting stiff_neck
+pharyngitis
+7842428
+fever coughing sneezing sore_throat vomiting muscle_pain
+headache runny_nose stiff_neck
+pneumonia
+4677954
+runny_nose
+headache stomach_pain muscle_pain stiff_neck
+cold
+468961
+sore_throat
+sneezing vomiting muscle_pain stiff_neck
+pneumonia
+5983339
+headache
+runny_nose stomach_pain muscle_pain stiff_neck
+pneumonia
+7279957
+headache coughing
+fever vomiting
+cold
+1420506
+runny_nose muscle_pain
+headache fever sore_throat vomiting stomach_pain
+flu
+9282553
+fever muscle_pain stiff_neck
+coughing runny_nose stomach_pain
+meningitis
+9640243
+
+sneezing stomach_pain stiff_neck
+flu
+3779917
+coughing runny_nose sneezing vomiting
+sore_throat stomach_pain
+flu
+4599078
+fever sneezing muscle_pain stiff_neck
+
+allergies
+707317
+stomach_pain
+sneezing muscle_pain stiff_neck
+pharyngitis
+6263066
+headache runny_nose stiff_neck
+
+flu
+8318389
+headache runny_nose sneezing
+
+allergies
+143341
+fever muscle_pain
+headache runny_nose vomiting stomach_pain stiff_neck
+cold
+1003909
+headache vomiting
+fever sneezing muscle_pain
+food_poisoning
+6412132
+fever
+headache runny_nose
+pharyngitis
+8440747
+headache coughing runny_nose
+sneezing stiff_neck
+pharyngitis
+594446
+vomiting
+sneezing stomach_pain
+pharyngitis
+263876
+fever
+sneezing sore_throat vomiting muscle_pain stiff_neck
+pneumonia
+1665997
+fever coughing runny_nose sneezing
+headache sore_throat vomiting stomach_pain muscle_pain stiff_neck
+flu
+5831869
+runny_nose sore_throat muscle_pain
+sneezing vomiting stomach_pain stiff_neck
+cold
+3409808
+fever runny_nose stiff_neck
+vomiting stomach_pain
+allergies
+2027470
+fever runny_nose sneezing
+headache sore_throat vomiting stomach_pain
+flu
+1731533
+
+fever runny_nose sneezing sore_throat vomiting stiff_neck
+pneumonia
+2742646
+coughing runny_nose
+stomach_pain stiff_neck
+pharyngitis
+4472157
+sore_throat stomach_pain
+headache sneezing stiff_neck
+pneumonia
+2929944
+stomach_pain
+sneezing muscle_pain
+food_poisoning
+4594592
+fever
+sore_throat muscle_pain stiff_neck
+pneumonia
+1244078
+fever runny_nose sneezing muscle_pain
+coughing sore_throat vomiting stomach_pain
+flu
+7033992
+coughing sneezing sore_throat
+headache fever vomiting muscle_pain stiff_neck
+cold
+6851609
+vomiting muscle_pain stiff_neck
+headache coughing sneezing sore_throat
+food_poisoning
+9736834
+runny_nose sore_throat
+headache sneezing muscle_pain
+pharyngitis
+8498658
+headache
+muscle_pain
+cold
+8454911
+runny_nose vomiting stiff_neck
+fever stomach_pain muscle_pain
+cold
+3636334
+coughing sore_throat
+headache vomiting stomach_pain
+pharyngitis
+7805561
+muscle_pain
+sneezing
+meningitis
+5026816
+coughing
+fever muscle_pain
+pneumonia
+2197705
+coughing
+headache sneezing stomach_pain
+cold
+9316993
+coughing runny_nose
+sore_throat vomiting stomach_pain stiff_neck
+cold
+1122709
+
+vomiting muscle_pain stiff_neck
+cold
+7396248
+coughing
+stomach_pain stiff_neck
+allergies
+486022
+coughing muscle_pain
+sore_throat
+cold
+4612472
+sore_throat muscle_pain stiff_neck
+sneezing
+pneumonia
+6734904
+fever coughing sore_throat
+headache
+allergies
+2643940
+fever runny_nose sneezing muscle_pain
+coughing sore_throat stomach_pain
+flu
+3587282
+fever sneezing sore_throat stiff_neck
+coughing
+flu
+8746597
+coughing sneezing stomach_pain stiff_neck
+runny_nose vomiting
+pneumonia
+1986207
+fever runny_nose sore_throat
+vomiting stiff_neck
+flu
+6364988
+runny_nose stiff_neck
+fever sore_throat muscle_pain
+allergies
+886692
+coughing sore_throat
+fever runny_nose muscle_pain
+pharyngitis
+2363167
+runny_nose
+vomiting muscle_pain stiff_neck
+cold
+5070569
+coughing runny_nose sore_throat
+headache sneezing stiff_neck
+cold
+9131305
+headache
+coughing runny_nose
+meningitis
+3973964
+headache stomach_pain stiff_neck
+coughing runny_nose sneezing sore_throat vomiting
+meningitis
+9576797
+fever
+coughing
+allergies
+314145
+headache fever
+coughing runny_nose sore_throat muscle_pain
+meningitis
+675564
+coughing muscle_pain
+sneezing sore_throat stomach_pain
+pneumonia
+9855784
+fever muscle_pain
+sore_throat stiff_neck
+flu
+4673269
+sore_throat
+fever runny_nose stomach_pain
+allergies
+7783239
+coughing runny_nose sneezing muscle_pain
+vomiting stomach_pain stiff_neck
+allergies
+5103179
+coughing runny_nose stiff_neck
+stomach_pain
+cold
+5150125
+
+headache coughing sneezing stomach_pain muscle_pain
+pharyngitis
+8187718
+headache sneezing
+runny_nose vomiting stiff_neck
+pneumonia
+4308663
+fever sneezing sore_throat muscle_pain
+headache coughing vomiting
+flu
+4082814
+fever coughing
+sore_throat stiff_neck
+pneumonia
+4508732
+headache sneezing stomach_pain muscle_pain
+fever runny_nose stiff_neck
+food_poisoning
+8930691
+sneezing stiff_neck
+sore_throat stomach_pain
+meningitis
+8155454
+fever stiff_neck
+stomach_pain
+flu
+8316976
+sore_throat vomiting
+runny_nose muscle_pain
+pharyngitis
+6175544
+
+headache fever runny_nose vomiting stomach_pain
+pharyngitis
+4877822
+coughing stomach_pain
+headache fever sneezing sore_throat
+pharyngitis
+9177780
+sore_throat stiff_neck
+headache coughing runny_nose stomach_pain
+pharyngitis
+6435512
+sore_throat
+fever sneezing stomach_pain muscle_pain stiff_neck
+pharyngitis
+8275194
+headache runny_nose sneezing
+fever vomiting muscle_pain stiff_neck
+cold
+2784142
+stiff_neck
+coughing stomach_pain muscle_pain
+meningitis
+7949838
+
+fever sneezing stomach_pain muscle_pain
+allergies
+6906565
+headache fever
+sneezing stomach_pain muscle_pain stiff_neck
+pneumonia
+253852
+fever
+sore_throat
+cold
+4279838
+coughing runny_nose sore_throat
+fever vomiting stiff_neck
+cold
+6419274
+headache fever sneezing muscle_pain stiff_neck
+runny_nose
+meningitis
+2869051
+fever sneezing muscle_pain
+coughing stomach_pain
+allergies
+1328871
+fever stomach_pain
+headache vomiting muscle_pain
+meningitis
+8337647
+
+runny_nose vomiting stiff_neck
+pharyngitis
+4788489
+headache fever
+coughing runny_nose sore_throat vomiting
+meningitis
+2402235
+fever runny_nose sore_throat stiff_neck
+stomach_pain
+meningitis
+8931373
+sneezing
+sore_throat muscle_pain
+food_poisoning
+2261836
+coughing vomiting stomach_pain muscle_pain
+headache sneezing stiff_neck
+pharyngitis
+892340
+headache stiff_neck
+fever runny_nose sneezing sore_throat stomach_pain
+meningitis
+3907055
+coughing sneezing vomiting stomach_pain
+
+cold
+659973
+fever runny_nose
+sneezing muscle_pain
+pneumonia
+4835016
+fever
+vomiting
+flu
+5593304
+sore_throat
+headache runny_nose vomiting stomach_pain
+pharyngitis
+6653496
+headache vomiting
+coughing runny_nose sore_throat
+pneumonia
+8471364
+fever coughing runny_nose
+sore_throat stomach_pain
+meningitis
+377388
+headache fever sore_throat
+runny_nose muscle_pain
+food_poisoning
+7128364
+
+coughing stomach_pain
+meningitis
+7810476
+coughing sneezing
+stiff_neck
+pharyngitis
+4782875
+
+headache fever runny_nose stomach_pain
+pharyngitis
+4927788
+runny_nose muscle_pain
+fever vomiting
+meningitis
+763425
+headache fever runny_nose sneezing
+stomach_pain muscle_pain
+flu
+3407321
+runny_nose sneezing
+sore_throat stomach_pain stiff_neck
+pneumonia
+1082731
+runny_nose vomiting muscle_pain
+headache coughing stomach_pain stiff_neck
+flu
+3587358
+runny_nose sneezing sore_throat
+headache muscle_pain stiff_neck
+allergies
+6369771
+headache
+sneezing vomiting stomach_pain stiff_neck
+allergies
+6458036
+coughing sneezing
+headache sore_throat vomiting
+allergies
+2808037
+fever vomiting
+runny_nose sneezing stiff_neck
+food_poisoning
+6462771
+headache fever stiff_neck
+sore_throat stomach_pain muscle_pain
+meningitis
+9010007
+fever
+stiff_neck
+pneumonia
+1072620
+coughing muscle_pain
+sore_throat stiff_neck
+allergies
+3035428
+fever
+runny_nose sneezing sore_throat stiff_neck
+pneumonia
+822902
+coughing
+vomiting stiff_neck
+pharyngitis
+2426468
+headache fever stomach_pain muscle_pain stiff_neck
+runny_nose sneezing
+meningitis
+6336461
+sneezing stomach_pain muscle_pain
+stiff_neck
+allergies
+339914
+fever
+sneezing vomiting stomach_pain muscle_pain
+meningitis
+2870834
+runny_nose sneezing stiff_neck
+sore_throat vomiting stomach_pain muscle_pain
+allergies
+3742394
+vomiting muscle_pain
+headache coughing
+food_poisoning
+77997
+
+headache fever runny_nose sneezing vomiting
+cold
+4644652
+headache fever coughing
+stomach_pain
+pneumonia
+6278501
+headache sore_throat
+sneezing vomiting stomach_pain muscle_pain
+pharyngitis
+8284016
+coughing runny_nose sneezing
+headache fever stomach_pain muscle_pain stiff_neck
+cold
+7851428
+coughing runny_nose
+fever vomiting stiff_neck
+pharyngitis
+1100016
+
+headache fever coughing sore_throat vomiting stiff_neck
+allergies
+7269791
+fever coughing
+vomiting
+pneumonia
+349629
+headache muscle_pain
+sneezing
+allergies
+5081516
+sneezing sore_throat
+stomach_pain muscle_pain
+allergies
+3734569
+coughing
+headache sneezing sore_throat vomiting stomach_pain
+pneumonia
+5569763
+muscle_pain stiff_neck
+sneezing stomach_pain
+meningitis
+6817434
+coughing
+headache vomiting muscle_pain stiff_neck
+pneumonia
+4762015
+fever coughing
+sore_throat stomach_pain
+pneumonia
+1072018
+muscle_pain
+fever coughing sore_throat
+food_poisoning
+9221894
+fever coughing muscle_pain
+sneezing sore_throat
+pneumonia
+9780511
+fever coughing sneezing
+stomach_pain
+cold
+9140153
+coughing sneezing
+stiff_neck
+flu
+1282213
+headache runny_nose sneezing
+vomiting stiff_neck
+flu
+9828482
+
+
+flu
+6620209
+vomiting
+fever coughing runny_nose sore_throat
+food_poisoning
+2077424
+
+muscle_pain
+flu
+9931465
+fever coughing runny_nose sore_throat stiff_neck
+vomiting stomach_pain muscle_pain
+pneumonia
+8785155
+headache fever vomiting
+coughing sneezing
+pneumonia
+9844272
+vomiting stomach_pain
+coughing runny_nose sneezing
+food_poisoning
+3159608
+sneezing
+sore_throat vomiting stomach_pain stiff_neck
+allergies
+5225324
+coughing runny_nose sneezing
+headache sore_throat vomiting stomach_pain
+cold
+2391796
+coughing runny_nose
+headache stomach_pain stiff_neck
+cold
+7381369
+coughing sneezing sore_throat muscle_pain
+runny_nose stomach_pain stiff_neck
+cold
+6367128
+fever coughing sore_throat vomiting
+headache runny_nose
+pneumonia
+7142279
+fever vomiting stiff_neck
+coughing sore_throat
+meningitis
+8839118
+
+headache vomiting stomach_pain
+cold
+2855885
+fever vomiting stiff_neck
+headache coughing runny_nose sneezing stomach_pain muscle_pain
+meningitis
+2909025
+headache coughing
+stiff_neck
+pneumonia
+6973041
+fever coughing stiff_neck
+runny_nose vomiting stomach_pain
+pneumonia
+8584390
+fever sneezing muscle_pain
+headache sore_throat stomach_pain
+flu
+9847047
+coughing
+stiff_neck
+cold
+5738786
+sneezing stiff_neck
+headache stomach_pain
+pharyngitis
+9284301
+coughing sneezing
+stomach_pain stiff_neck
+pharyngitis
+3443481
+sore_throat vomiting
+headache sneezing muscle_pain
+pharyngitis
+1999226
+headache coughing
+fever vomiting stiff_neck
+allergies
+4285260
+coughing
+stomach_pain stiff_neck
+flu
+5673442
+fever muscle_pain
+vomiting
+flu
+2960302
+fever
+headache sneezing stomach_pain
+pneumonia
+1454866
+
+coughing runny_nose sneezing vomiting
+meningitis
+1333077
+fever sneezing
+headache vomiting stiff_neck
+pharyngitis
+4547374
+sore_throat stomach_pain
+coughing sneezing muscle_pain
+meningitis
+975652
+stiff_neck
+fever sneezing vomiting
+meningitis
+5299795
+headache fever runny_nose sneezing muscle_pain
+coughing stomach_pain stiff_neck
+flu
+5756582
+
+headache vomiting stiff_neck
+cold
+7634036
+coughing sore_throat
+sneezing stiff_neck
+pharyngitis
+9317880
+sneezing
+headache stiff_neck
+cold
+9414456
+sore_throat
+fever coughing muscle_pain stiff_neck
+cold
+5508472
+vomiting stomach_pain
+fever coughing runny_nose sneezing
+food_poisoning
+9506858
+headache
+sneezing vomiting stomach_pain muscle_pain stiff_neck
+cold
+6379223
+fever sneezing sore_throat
+coughing runny_nose vomiting stomach_pain muscle_pain
+flu
+1640516
+vomiting
+runny_nose sneezing stomach_pain
+meningitis
+5064300
+runny_nose muscle_pain stiff_neck
+coughing vomiting stomach_pain
+meningitis
+3965162
+fever runny_nose vomiting muscle_pain
+headache sneezing stiff_neck
+flu
+5248846
+headache runny_nose sneezing
+stomach_pain stiff_neck
+cold
+5217077
+headache
+coughing runny_nose sore_throat muscle_pain stiff_neck
+food_poisoning
+1925348
+
+headache fever sore_throat vomiting muscle_pain
+food_poisoning
+8498642
+coughing sneezing sore_throat
+stomach_pain muscle_pain
+pharyngitis
+5995997
+coughing
+sneezing vomiting stomach_pain muscle_pain stiff_neck
+pneumonia
+3725718
+stiff_neck
+coughing sore_throat
+meningitis
+431091
+coughing
+muscle_pain
+pharyngitis
+9184686
+sore_throat vomiting stiff_neck
+coughing runny_nose sneezing
+meningitis
+5321434
+
+headache vomiting stomach_pain
+pneumonia
+5170703
+sore_throat
+headache fever stomach_pain muscle_pain stiff_neck
+cold
+2101017
+fever stiff_neck
+headache runny_nose sneezing
+food_poisoning
+9444573
+
+runny_nose sneezing vomiting muscle_pain
+food_poisoning
+9990066
+
+coughing runny_nose stomach_pain muscle_pain
+meningitis
+2119391
+sneezing stomach_pain
+headache sore_throat muscle_pain
+pharyngitis
+2321788
+sore_throat stiff_neck
+headache fever
+cold
+7991458
+headache
+fever muscle_pain stiff_neck
+pharyngitis
+9778780
+coughing runny_nose sore_throat
+sneezing vomiting stomach_pain
+cold
+6919097
+headache fever coughing sneezing
+vomiting stomach_pain stiff_neck
+pneumonia
+4776531
+runny_nose sneezing
+vomiting muscle_pain
+cold
+4787156
+headache coughing runny_nose sneezing muscle_pain
+vomiting stiff_neck
+flu
+1297068
+runny_nose sneezing
+fever vomiting stomach_pain stiff_neck
+allergies
+8462256
+runny_nose sore_throat
+
+allergies
+4876434
+fever coughing
+headache vomiting
+pneumonia
+8299569
+coughing runny_nose
+headache fever sore_throat
+cold
+3227795
+fever runny_nose muscle_pain
+coughing sore_throat vomiting stiff_neck
+allergies
+2330929
+vomiting muscle_pain
+stomach_pain
+allergies
+8042904
+coughing
+headache sneezing sore_throat stiff_neck
+pneumonia
+9483948
+fever sore_throat
+vomiting stomach_pain
+flu
+4423390
+sore_throat vomiting
+fever coughing runny_nose sneezing
+pharyngitis
+6949108
+coughing sneezing sore_throat
+fever vomiting stomach_pain muscle_pain
+pharyngitis
+4240369
+headache coughing
+
+pneumonia
+5044733
+sneezing vomiting
+headache fever muscle_pain
+flu
+6912050
+fever vomiting stiff_neck
+coughing runny_nose sneezing
+food_poisoning
+8614682
+headache fever runny_nose sneezing stomach_pain muscle_pain
+sore_throat
+flu
+1683247
+sneezing
+stomach_pain
+allergies
+4085898
+headache muscle_pain stiff_neck
+vomiting
+meningitis
+2475320
+
+headache coughing sneezing sore_throat muscle_pain
+food_poisoning
+9982093
+headache fever vomiting
+coughing sneezing stomach_pain
+meningitis
+4122001
+coughing sore_throat
+headache sneezing muscle_pain
+pharyngitis
+7111445
+headache fever vomiting muscle_pain
+sneezing sore_throat
+food_poisoning
+4867558
+fever muscle_pain stiff_neck
+coughing runny_nose sneezing sore_throat stomach_pain
+meningitis
+9863325
+headache runny_nose stiff_neck
+sneezing
+pharyngitis
+7608822
+sneezing muscle_pain
+headache sore_throat stomach_pain
+allergies
+8151292
+muscle_pain
+headache sore_throat vomiting
+flu
+2607026
+headache fever
+runny_nose vomiting stomach_pain muscle_pain
+meningitis
+6606271
+fever
+headache coughing stiff_neck
+pneumonia
+5957934
+sneezing
+runny_nose sore_throat stomach_pain stiff_neck
+allergies
+2049644
+headache fever sore_throat
+coughing runny_nose stomach_pain muscle_pain stiff_neck
+pneumonia
+9428755
+runny_nose muscle_pain
+stiff_neck
+food_poisoning
+7472300
+sneezing
+headache fever sore_throat stomach_pain muscle_pain
+allergies
+9612175
+vomiting muscle_pain stiff_neck
+headache fever coughing runny_nose sore_throat
+food_poisoning
+6659537
+headache sneezing vomiting stomach_pain
+fever runny_nose muscle_pain
+food_poisoning
+8972246
+coughing runny_nose sore_throat muscle_pain stiff_neck
+fever vomiting stomach_pain
+pharyngitis
+4292326
+coughing runny_nose sneezing stiff_neck
+headache vomiting stomach_pain muscle_pain
+cold
+9225399
+coughing stiff_neck
+vomiting stomach_pain
+pharyngitis
+4783795
+runny_nose
+headache sneezing stomach_pain muscle_pain
+allergies
+3403385
+
+headache muscle_pain
+pharyngitis
+4903222
+coughing
+headache vomiting stomach_pain stiff_neck
+pharyngitis
+3549262
+fever vomiting
+coughing sore_throat muscle_pain
+food_poisoning
+3954170
+headache coughing runny_nose
+fever sneezing sore_throat vomiting stomach_pain
+cold
+1431608
+headache fever runny_nose
+sneezing vomiting
+pneumonia
+6332123
+fever
+coughing runny_nose vomiting stomach_pain muscle_pain
+meningitis
+3844430
+stiff_neck
+sore_throat
+meningitis
+7365646
+
+headache coughing sneezing sore_throat vomiting stomach_pain muscle_pain
+allergies
+5173775
+coughing
+headache sneezing muscle_pain stiff_neck
+pharyngitis
+6852549
+headache fever stiff_neck
+coughing runny_nose sneezing sore_throat muscle_pain
+meningitis
+665797
+headache sneezing
+sore_throat vomiting stiff_neck
+flu
+1669607
+headache runny_nose sneezing
+fever muscle_pain
+flu
+2019584
+headache coughing muscle_pain
+vomiting
+flu
+9668401
+fever coughing
+sneezing sore_throat vomiting stomach_pain stiff_neck
+pneumonia
+9940612
+coughing sore_throat vomiting
+sneezing muscle_pain stiff_neck
+pharyngitis
+8682350
+
+sneezing
+meningitis
+8940374
+
+headache coughing stomach_pain muscle_pain
+pneumonia

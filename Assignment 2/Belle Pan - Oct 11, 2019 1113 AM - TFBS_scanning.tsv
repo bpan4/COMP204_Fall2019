@@ -1,0 +1,14 @@
+	grade	out of	unexpected cases
+encode	7.5	7.5	
+build_PFM	15.0	15.0	
+get_PWM_from_PFM	7.5	7.5	
+score	15.0	15.0	
+predict_sites	15.0	15.0	
+count_hits_per_gene	15.0	15.0	
+grade from code output	75.0	75.0	
+grade from coding practices	25.0	25.0	
+total	100.0	100.0	
+
+Your code passed all of the test cases! Great work overall. Make sure to include some comments in future assignments to ensure that you get full marks for coding style. You don't always need a ton, but it should generally be more than zero comments. 
+
+=== Unexpected Outcomes ===

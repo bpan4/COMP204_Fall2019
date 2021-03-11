@@ -1,0 +1,320 @@
+Question 1
+Neighbors of 5 5: [(4, 4), (4, 5), (4, 6), (5, 4), (5, 6), (6, 4), (6, 5), (6, 6)]
+Neighbors of 9 5: [(8, 4), (8, 5), (8, 6), (9, 4), (9, 6)]
+Neighbors of 0 0: [(0, 1), (1, 0), (1, 1)]
+Neighbors of 9 0: [(8, 0), (8, 1), (9, 1)]
+Question 2
+Random neighbor of 5 5, only empty: (4, 5)
+Random neighbor of 5 5: (4, 4)
+Random neighbor of 9 5: (8, 4)
+Random neighbor of 0 0: (0, 1)
+Random neighbor of 9 0: (8, 0)
+Question 3
+Lion can eat Zebra? True
+Zebra can eat Lion? False
+Lion can eat Lion? False
+Question 4-7
+Lion: age=1, time_since_last_meal=1, has_moved = False
+Zebra: age=1, time_since_last_meal=1, has_moved = False
+Zebra: age=2, time_since_last_meal=2, has_moved = False
+Question 5 and 6
+Zebra dies of old age? False
+Lion dies of hunger? False
+Zebra will reproduce? False
+Zebra dies of old age? False
+Lion dies of hunger? False
+Zebra will reproduce? True
+Zebra dies of old age? False
+Lion dies of hunger? False
+Zebra will reproduce? False
+Zebra dies of old age? False
+Lion dies of hunger? False
+Zebra will reproduce? False
+Zebra dies of old age? False
+Lion dies of hunger? False
+Zebra will reproduce? True
+Zebra dies of old age? True
+Lion dies of hunger? True
+Zebra will reproduce? False
+Question 8
+Time  0
+************
+*          *
+*  Z     Z *
+* Z        *
+*     L    *
+*    Z   Z *
+*  Z     Z *
+*          *
+*    L     *
+*          *
+*  Z Z     *
+************
+Events =  ['Zebra moves from 1 2 to empty 0 1', 'Zebra moves from 1 8 to empty 0 7', 'Zebra moves from 2 1 to empty 1 0', 'Lion moves from 3 5 to empty 2 4', 'Zebra moves from 4 4 to empty 3 3', 'Zebra moves from 4 8 to empty 3 7', 'Zebra moves from 5 2 to empty 4 1', 'Zebra moves from 5 8 to empty 4 7', 'Lion moves from 7 4 to empty 6 3', 'Zebra moves from 9 2 to empty 8 1', 'Zebra moves from 9 4 to empty 8 3']
+Time  1
+************
+* Z     Z  *
+*Z         *
+*    L     *
+*   Z   Z  *
+* Z     Z  *
+*          *
+*   L      *
+*          *
+* Z Z      *
+*          *
+************
+Events =  ['Zebra moves from 0 1 to empty 0 0', 'Zebra moves from 0 7 to empty 0 6', 'Lion moves from 2 4 to empty 1 3', 'Zebra moves from 3 3 to empty 2 2', 'Zebra moves from 3 7 to empty 2 6', 'Zebra moves from 4 1 to empty 3 0', 'Zebra moves from 4 7 to empty 3 6', 'Lion moves from 6 3 to empty 5 2', 'Zebra moves from 8 1 to empty 7 0', 'Zebra moves from 8 3 to empty 7 2']
+Time  2
+************
+*Z     Z   *
+*Z  L      *
+*  Z   Z   *
+*Z     Z   *
+*          *
+*  L       *
+*          *
+*Z Z       *
+*          *
+*          *
+************
+Events =  ['Zebra moves from 0 0 to empty 0 1', 'Zebra moves from 0 6 to empty 0 5', 'Zebra moves from 1 0 to empty 0 0', 'Lion moves from 1 3 to empty 0 2', 'Zebra moves from 2 2 to empty 1 1', 'Zebra moves from 2 6 to empty 1 5', 'Zebra moves from 3 0 to empty 2 0', 'Zebra moves from 3 6 to empty 2 5', 'Lion moves from 5 2 to empty 4 1', 'Zebra moves from 7 0 to empty 6 0', 'Zebra moves from 7 2 to empty 6 1', 'Birth of a Zebra at 1 0', 'Birth of a Zebra at 1 2', 'Birth of a Zebra at 0 4', 'Birth of a Zebra at 2 1', 'Birth of a Zebra at 0 6', 'Birth of a Zebra at 3 0', 'Birth of a Zebra at 1 4', 'Birth of a Zebra at 5 0', 'Birth of a Zebra at 5 1']
+Time  3
+************
+*ZZL ZZZ   *
+*ZZZ ZZ    *
+*ZZ   Z    *
+*Z         *
+* L        *
+*ZZ        *
+*ZZ        *
+*          *
+*          *
+*          *
+************
+Events =  ['Lion moves from 0 2 to 0 1 and eats Zebra', 'Zebra moves from 0 4 to empty 0 3', 'Zebra moves from 0 5 to empty 0 4', 'Zebra moves from 0 6 to empty 0 5', 'Zebra moves from 1 2 to 0 1 and is eaten by Lion.', 'Lion moves from 4 1 to 3 0 and eats Zebra', 'Zebra moves from 5 0 to empty 4 0', 'Zebra moves from 6 0 to empty 5 0']
+Time  4
+************
+*ZL ZZZ    *
+*ZZ  ZZ    *
+*ZZ   Z    *
+*L         *
+*Z         *
+*ZZ        *
+* Z        *
+*          *
+*          *
+*          *
+************
+Events =  ['Zebra moves from 0 0 to 0 1 and is eaten by Lion.', 'Lion moves from 0 1 to empty 0 0', 'Zebra moves from 0 3 to empty 0 2', 'Zebra moves from 0 4 to empty 0 3', 'Zebra moves from 0 5 to empty 0 4', 'Zebra moves from 1 0 to 0 0 and is eaten by Lion.', 'Zebra moves from 1 1 to 0 0 and is eaten by Lion.', 'Zebra moves from 2 0 to empty 1 0', 'Lion moves from 3 0 to empty 2 0', 'Zebra moves from 4 0 to empty 3 0', 'Zebra moves from 5 0 to empty 4 0', 'Zebra moves from 6 1 to empty 5 0']
+Time  5
+************
+*L ZZZ     *
+*Z   ZZ    *
+*LZ   Z    *
+*Z         *
+*Z         *
+*ZZ        *
+*          *
+*          *
+*          *
+*          *
+************
+Events =  ['Lion moves from 0 0 to empty 0 1', 'Zebra moves from 0 2 to 0 1 and is eaten by Lion.', 'Zebra moves from 0 3 to empty 0 2', 'Zebra moves from 0 4 to empty 0 3', 'Zebra moves from 1 0 to empty 0 0', 'Zebra moves from 1 5 to empty 0 4', 'Lion moves from 2 0 to empty 1 0', 'Zebra moves from 2 1 to 1 0 and is eaten by Lion.', 'Zebra moves from 3 0 to empty 2 0', 'Zebra moves from 4 0 to empty 3 0', 'Zebra moves from 5 0 to empty 4 0', 'Birth of a Zebra at 1 1', 'Birth of a Zebra at 1 2', 'Birth of a Zebra at 1 3', 'Birth of a Zebra at 0 5', 'Birth of a Zebra at 1 5', 'Birth of a Zebra at 2 1', 'Birth of a Zebra at 1 6', 'Birth of a Zebra at 3 1', 'Birth of a Zebra at 4 1', 'Birth of a Zebra at 4 2']
+Time  6
+************
+*ZLZZZZ    *
+*LZZZZZZ   *
+*ZZ   Z    *
+*ZZ        *
+*ZZZ       *
+* Z        *
+*          *
+*          *
+*          *
+*          *
+************
+Events =  ['Zebra dies of old age at position 0 0', 'Zebra dies of old age at position 0 2', 'Zebra dies of old age at position 0 4', 'Zebra dies of old age at position 2 5', 'Zebra dies of old age at position 3 0', 'Zebra dies of old age at position 4 0', 'Lion moves from 0 1 to empty 0 0', 'Zebra moves from 0 3 to empty 0 2', 'Zebra moves from 0 5 to empty 0 4', 'Zebra moves from 1 1 to 0 0 and is eaten by Lion.', 'Zebra moves from 1 2 to empty 0 1', 'Zebra moves from 1 4 to empty 0 3', 'Zebra moves from 1 6 to empty 0 5', 'Zebra moves from 2 0 to 1 0 and is eaten by Lion.', 'Zebra moves from 2 1 to 1 0 and is eaten by Lion.', 'Zebra moves from 3 1 to empty 2 0', 'Zebra moves from 4 1 to empty 3 0', 'Zebra moves from 4 2 to empty 3 1', 'Zebra moves from 5 1 to empty 4 0', 'Birth of a Lion at 1 1', 'Birth of a Lion at 2 1']
+Time  7
+************
+*LZZZZZ    *
+*LL Z Z    *
+*ZL        *
+*ZZ        *
+*Z         *
+*          *
+*          *
+*          *
+*          *
+*          *
+************
+Events =  ['Lion moves from 0 0 to 0 1 and eats Zebra', 'Zebra moves from 0 2 to 0 1 and is eaten by Lion.', 'Zebra moves from 0 3 to empty 0 2', 'Zebra moves from 0 4 to empty 0 3', 'Zebra moves from 0 5 to empty 0 4', 'Lion moves from 1 0 to empty 0 0', 'Zebra moves from 2 0 to empty 1 0', 'Lion moves from 2 1 to 1 0 and eats Zebra', 'Zebra moves from 3 0 to empty 2 0', 'Zebra moves from 4 0 to empty 3 0']
+Time  8
+************
+*LLZZZ     *
+*LL Z Z    *
+*Z         *
+*ZZ        *
+*          *
+*          *
+*          *
+*          *
+*          *
+*          *
+************
+Events =  ['Zebra moves from 0 2 to 0 1 and is eaten by Lion.', 'Zebra moves from 0 3 to empty 0 2', 'Zebra moves from 0 4 to empty 0 3', 'Zebra moves from 1 5 to empty 0 4', 'Zebra moves from 2 0 to 1 0 and is eaten by Lion.', 'Zebra moves from 3 0 to empty 2 0', 'Birth of a Zebra at 1 2', 'Birth of a Zebra at 1 4', 'Birth of a Zebra at 0 5', 'Birth of a Zebra at 2 2', 'Birth of a Zebra at 2 1', 'Birth of a Zebra at 3 0']
+Time  9
+************
+*LLZZZZ    *
+*LLZZZ     *
+*ZZZ       *
+*ZZ        *
+*          *
+*          *
+*          *
+*          *
+*          *
+*          *
+************
+Events =  ['Zebra dies of old age at position 2 0', 'Zebra moves from 0 2 to 0 1 and is eaten by Lion.', 'Zebra moves from 0 3 to empty 0 2', 'Zebra moves from 0 4 to empty 0 3', 'Zebra moves from 0 5 to empty 0 4', 'Zebra moves from 1 2 to 0 1 and is eaten by Lion.', 'Zebra moves from 2 1 to 1 0 and is eaten by Lion.', 'Zebra moves from 2 2 to 1 1 and is eaten by Lion.', 'Zebra moves from 3 0 to empty 2 0']
+Time  10
+************
+*LLZZZ     *
+*LL ZZ     *
+*Z         *
+* Z        *
+*          *
+*          *
+*          *
+*          *
+*          *
+*          *
+************
+Events =  ['Zebra moves from 0 2 to 0 1 and is eaten by Lion.', 'Zebra moves from 0 3 to empty 0 2', 'Zebra moves from 0 4 to empty 0 3', 'Zebra moves from 2 0 to 1 0 and is eaten by Lion.', 'Zebra moves from 3 1 to empty 2 0']
+Time  11
+************
+*LLZZ      *
+*LL ZZ     *
+*Z         *
+*          *
+*          *
+*          *
+*          *
+*          *
+*          *
+*          *
+************
+Events =  ['Zebra moves from 0 2 to 0 1 and is eaten by Lion.', 'Zebra moves from 0 3 to empty 0 2', 'Zebra moves from 1 4 to empty 0 3', 'Zebra moves from 2 0 to 1 0 and is eaten by Lion.', 'Birth of a Zebra at 1 2', 'Birth of a Zebra at 0 4', 'Birth of a Zebra at 1 4']
+Time  12
+************
+*LLZZZ     *
+*LLZZZ     *
+*          *
+*          *
+*          *
+*          *
+*          *
+*          *
+*          *
+*          *
+************
+Events =  ['Lion dies of hunger at position 0 0', 'Zebra dies of old age at position 1 3', 'Lion moves from 0 1 to empty 0 0', 'Zebra moves from 0 2 to empty 0 1', 'Zebra moves from 0 3 to empty 0 2', 'Zebra moves from 0 4 to empty 0 3']
+Time  13
+************
+*LZZZ      *
+*LLZ Z     *
+*          *
+*          *
+*          *
+*          *
+*          *
+*          *
+*          *
+*          *
+************
+Events =  ['Lion moves from 0 0 to 0 1 and eats Zebra', 'Zebra moves from 0 2 to 0 1 and is eaten by Lion.', 'Zebra moves from 0 3 to empty 0 2', 'Lion moves from 1 0 to empty 0 0', 'Zebra moves from 1 2 to 0 1 and is eaten by Lion.', 'Zebra moves from 1 4 to empty 0 3', 'Birth of a Lion at 1 0', 'Birth of a Lion at 1 2', 'Birth of a Lion at 2 0']
+Time  14
+************
+*LLZZ      *
+*LLL       *
+*L         *
+*          *
+*          *
+*          *
+*          *
+*          *
+*          *
+*          *
+************
+Events =  ['Zebra moves from 0 2 to 0 1 and is eaten by Lion.', 'Zebra moves from 0 3 to empty 0 2', 'Birth of a Zebra at 0 3']
+Time  15
+************
+*LLZZ      *
+*LLL       *
+*L         *
+*          *
+*          *
+*          *
+*          *
+*          *
+*          *
+*          *
+************
+Events =  ['Lion dies of hunger at position 1 1', 'Zebra moves from 0 2 to 0 1 and is eaten by Lion.', 'Zebra moves from 0 3 to empty 0 2']
+Time  16
+************
+*LLZ       *
+*L L       *
+*L         *
+*          *
+*          *
+*          *
+*          *
+*          *
+*          *
+*          *
+************
+Events =  ['Zebra moves from 0 2 to 0 1 and is eaten by Lion.']
+Time  17
+************
+*LL        *
+*L L       *
+*L         *
+*          *
+*          *
+*          *
+*          *
+*          *
+*          *
+*          *
+************
+Events =  ['Lion dies of hunger at position 0 0', 'Lion dies of old age at position 0 1', 'Lion moves from 1 0 to empty 0 0', 'Lion moves from 1 2 to empty 0 1', 'Lion moves from 2 0 to empty 1 0']
+Time  18
+************
+*LL        *
+*L         *
+*          *
+*          *
+*          *
+*          *
+*          *
+*          *
+*          *
+*          *
+************
+Events =  []
+Time  19
+************
+*LL        *
+*L         *
+*          *
+*          *
+*          *
+*          *
+*          *
+*          *
+*          *
+*          *
+************
+Events =  ['Lion dies of hunger at position 0 0', 'Lion dies of hunger at position 0 1', 'Lion dies of hunger at position 1 0']
+Question 9
