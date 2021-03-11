@@ -27,4 +27,14 @@ By the end of this course, students will be able to:
 ###### Programming language
 Python 3.8 
 
-List of life science topics used as examples: Central dogma of molecular biology, RNA and/or protein structure prediction, Genome sequencing and analysis, Biological networks, Evolution, Epigenetics, Biomarker discovery, Biosystems dynamics, Cell and biomedical imaging, Modeling. 
+###### List of life science topics used as examples
+ - Central dogma of molecular biology
+ - RNA and/or protein structure prediction
+ - Genome sequencing and analysis
+ - Biological networks
+ - Evolution
+ - Epigenetics
+ - Biomarker discovery
+ - Biosystems dynamics
+ - Cell and biomedical imaging
+ - Modeling
