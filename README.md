@@ -1,4 +1,4 @@
-# COMP204 Fall 2019
+# COMP204 Fall 2019 Computer Programming for Life Sciences
 
 ## Course Description
 Computer programming in a high level language: variables, expressions, types, functions, conditionals, loops, objects and classes. Introduction to algorithms, modular software design, libraries, file input/output, debugging. Emphasis on applications in the life sciences.
